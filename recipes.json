@@ -174,27 +174,22 @@
     },
     "ingredients": [
       {
-        "name": "high fiber spaghetti",
-        "quantity": "",
-        "category": "Pantry"
-      },
-      {
-        "name": "garlic scape basil pesto",
-        "quantity": "",
-        "category": "Pantry"
-      },
-      {
-        "name": "cherry tomatoes",
-        "quantity": "",
-        "category": "Produce"
-      },
-      {
-        "name": "kosher salt",
+        "name": "14 oz high fiber spaghetti (I like Ronzoni SmartTaste)",
         "quantity": "",
         "category": "Other"
       },
       {
-        "name": "fresh pepper",
+        "name": "5 tbsp garlic scape basil pesto",
+        "quantity": "",
+        "category": "Other"
+      },
+      {
+        "name": "2 cups cherry tomatoes (sliced)",
+        "quantity": "",
+        "category": "Other"
+      },
+      {
+        "name": "kosher salt and fresh pepper",
         "quantity": "",
         "category": "Other"
       }
@@ -211,7 +206,8 @@
     "title": "Phyllo Fruit Tart",
     "tab": "athlete",
     "tags": [
-      "quick"
+      "quick",
+      "dessert"
     ],
     "source": "Skinny Taste",
     "source_url": "https://www.skinnytaste.com/phyllo-fruit-tart/",
@@ -237,11 +233,11 @@
       {
         "name": "phyllo dough",
         "quantity": "8 sheets (14 x 9)",
-        "category": "Other"
+        "category": "Pantry"
       },
       {
         "name": "light cream cheese",
-        "quantity": "8 oz",
+        "quantity": "8 ounces",
         "category": "Dairy"
       },
       {
@@ -256,17 +252,17 @@
       },
       {
         "name": "mandarin oranges",
-        "quantity": "11 oz (drained or 2 to 3 fresh, peeled)",
+        "quantity": "11 oz (drained) or 2 to 3 fresh, peeled",
         "category": "Other"
       },
       {
         "name": "kiwifruit",
-        "quantity": "4 pieces (peeled and sliced)",
+        "quantity": "4",
         "category": "Produce"
       },
       {
         "name": "strawberries",
-        "quantity": "1.5 cups (sliced)",
+        "quantity": "1 \u00bd cups",
         "category": "Produce"
       },
       {
@@ -290,7 +286,8 @@
     "title": "Low Fat Chocolate Mummy Cupcakes",
     "tab": "athlete",
     "tags": [
-      "quick"
+      "quick",
+      "dessert"
     ],
     "source": "Skinny Taste",
     "source_url": "https://www.skinnytaste.com/low-fat-chocolate-mummy-cupcakes/",
@@ -348,7 +345,8 @@
     "title": "Very Blueberry Smoothie",
     "tab": "athlete",
     "tags": [
-      "quick"
+      "quick",
+      "drink"
     ],
     "source": "Skinny Taste",
     "source_url": "https://www.skinnytaste.com/very-blueberry-smoothie/",
@@ -442,7 +440,9 @@
     "id": "dark-chocolate-and-mint-chip-clouds",
     "title": "Dark Chocolate and Mint Chip Clouds",
     "tab": "athlete",
-    "tags": [],
+    "tags": [
+      "dessert"
+    ],
     "source": "Skinny Taste",
     "source_url": "https://www.skinnytaste.com/dark-chocolate-and-mint-chip-clouds/",
     "prep_time_minutes": 45,
@@ -508,9 +508,9 @@
     },
     "ingredients": [
       {
-        "name": "6 tbsp whole wheat breadcrumbs",
-        "quantity": "",
-        "category": "Other"
+        "name": "whole wheat breadcrumbs",
+        "quantity": "6 tbsp",
+        "category": "Pantry"
       },
       {
         "name": "butter flavored Pam",
@@ -518,44 +518,44 @@
         "category": "Other"
       },
       {
-        "name": "1  medium onion (chopped)",
+        "name": "onion",
+        "quantity": "1 medium",
+        "category": "Produce"
+      },
+      {
+        "name": "anchovies",
+        "quantity": "4",
+        "category": "Protein"
+      },
+      {
+        "name": "extra virgin olive oil",
+        "quantity": "1 tbsp",
+        "category": "Pantry"
+      },
+      {
+        "name": "cauliflower",
+        "quantity": "1 head",
+        "category": "Produce"
+      },
+      {
+        "name": "pasta con sarde seasoning",
+        "quantity": "14.5 oz can",
+        "category": "Pantry"
+      },
+      {
+        "name": "tomato sauce",
         "quantity": "",
         "category": "Other"
       },
       {
-        "name": "4  anchovies",
-        "quantity": "",
-        "category": "Other"
+        "name": "chicken bouillion",
+        "quantity": "1",
+        "category": "Protein"
       },
       {
-        "name": "1 tbsp extra virgin olive oil",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1  head cauliflower (chopped and steamed)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 14.5 oz can pasta con sarde seasoning",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "8 oz tomato sauce",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1  chicken bouillion",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "12 oz high fiber spaghetti such as Ronzoni Smart Taste",
-        "quantity": "",
-        "category": "Other"
+        "name": "high fiber spaghetti",
+        "quantity": "12 oz",
+        "category": "Pantry"
       }
     ],
     "instructions": [
@@ -575,7 +575,8 @@
     "title": "Veggie Shooters (Crudites with Skinny Ranch Dip)",
     "tab": "athlete",
     "tags": [
-      "quick"
+      "quick",
+      "sauce"
     ],
     "source": "Skinny Taste",
     "source_url": "https://www.skinnytaste.com/veggie-shooters-crudites-with-skinny/",
@@ -755,43 +756,43 @@
     },
     "ingredients": [
       {
-        "name": "1 teaspoon unsalted butter",
-        "quantity": "",
+        "name": "butter",
+        "quantity": "1 teaspoon",
+        "category": "Dairy"
+      },
+      {
+        "name": "oil",
+        "quantity": "1 teaspoon",
+        "category": "Pantry"
+      },
+      {
+        "name": "Swish Chard",
+        "quantity": "6 cups",
+        "category": "Produce"
+      },
+      {
+        "name": "onion",
+        "quantity": "1/2 cup",
+        "category": "Produce"
+      },
+      {
+        "name": "kosher salt and black pepper",
+        "quantity": "to taste",
         "category": "Other"
       },
       {
-        "name": "1 teaspoon olive oil",
-        "quantity": "",
-        "category": "Other"
+        "name": "Canadian Bacon",
+        "quantity": "4 slices",
+        "category": "Protein"
       },
       {
-        "name": "1/2  bunch (6 cups Swish Chard, washed well, stems and leaves separated)",
-        "quantity": "",
-        "category": "Other"
+        "name": "eggs",
+        "quantity": "4 large eggs",
+        "category": "Protein"
       },
       {
-        "name": "1/2 cup white onion (diced)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1/2 teaspoon kosher salt and black pepper (to taste)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "4 slices Canadian Bacon",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "4  large eggs",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2  light multi-grain or gluten-free English muffins (toasted and split)",
-        "quantity": "",
+        "name": "English muffins",
+        "quantity": "2 light multi-grain or gluten-free English muffins",
         "category": "Other"
       }
     ],
@@ -811,7 +812,8 @@
     "title": "Candied Tomato Sauce",
     "tab": "athlete",
     "tags": [
-      "quick"
+      "quick",
+      "sauce"
     ],
     "source": "Skinny Taste",
     "source_url": "https://www.skinnytaste.com/candied-tomato-sauce-0-ww-pts/",
@@ -872,7 +874,8 @@
     "title": "Slow Cooker Applesauce",
     "tab": "athlete",
     "tags": [
-      "quick"
+      "quick",
+      "sauce"
     ],
     "source": "Skinny Taste",
     "source_url": "https://www.skinnytaste.com/crock-pot-applesauce/",
@@ -924,7 +927,8 @@
     "title": "Mango Peachy Smoothie",
     "tab": "athlete",
     "tags": [
-      "quick"
+      "quick",
+      "drink"
     ],
     "source": "Skinny Taste",
     "source_url": "https://www.skinnytaste.com/mango-peach-smoothie/",
@@ -1332,7 +1336,8 @@
     "title": "Skinny No-Bake Chocolate Peanut Butter Cookies",
     "tab": "athlete",
     "tags": [
-      "quick"
+      "quick",
+      "dessert"
     ],
     "source": "Skinny Taste",
     "source_url": "https://www.skinnytaste.com/skinny-no-bake-cookies/",
@@ -1399,7 +1404,9 @@
     "id": "hot-and-cheesy-crab-and-artichoke-dip",
     "title": "Hot and Cheesy Crab and Artichoke Dip",
     "tab": "athlete",
-    "tags": [],
+    "tags": [
+      "sauce"
+    ],
     "source": "Skinny Taste",
     "source_url": "https://www.skinnytaste.com/hot-and-cheesy-crab-and-artichoke-dip/",
     "prep_time_minutes": 30,
@@ -1412,49 +1419,49 @@
     },
     "ingredients": [
       {
-        "name": "14 oz can artichoke hearts packed in water (drained (8.5 oz dry wt))",
-        "quantity": "",
+        "name": "artichoke hearts",
+        "quantity": "8.5 oz dry wt (drained from 14 oz can)",
+        "category": "Produce"
+      },
+      {
+        "name": "crab meat",
+        "quantity": "1 lb",
+        "category": "Protein"
+      },
+      {
+        "name": "chives",
+        "quantity": "2 tbsp",
+        "category": "Produce"
+      },
+      {
+        "name": "sour cream",
+        "quantity": "6 tbsp (or Greek yogurt)",
+        "category": "Dairy"
+      },
+      {
+        "name": "mayonnaise",
+        "quantity": "6 tbsp",
         "category": "Other"
       },
       {
-        "name": "1 lb crab meat (imitation or lump)",
-        "quantity": "",
+        "name": "parmesan cheese",
+        "quantity": "1/3 cup",
+        "category": "Dairy"
+      },
+      {
+        "name": "shredded cheddar cheese",
+        "quantity": "3/4 cups",
+        "category": "Dairy"
+      },
+      {
+        "name": "tabasco sauce",
+        "quantity": "1 - 2 tsp",
         "category": "Other"
       },
       {
-        "name": "2 tbsp chives",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "6 tbsp reduced fat sour cream (or Greek yogurt)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "6 tbsp light mayonnaise (Hellman's)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1/3 cup parmesan cheese",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "3/4 cups shredded reduced fat sharp cheddar cheese",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 - 2 tsp tabasco sauce",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 tsp lemon juice",
-        "quantity": "",
-        "category": "Other"
+        "name": "lemon juice",
+        "quantity": "1 tsp",
+        "category": "Produce"
       }
     ],
     "instructions": [
@@ -1574,7 +1581,8 @@
     "title": "Asparagus with Dijon Vinaigrette",
     "tab": "athlete",
     "tags": [
-      "quick"
+      "quick",
+      "sauce"
     ],
     "source": "Skinny Taste",
     "source_url": "https://www.skinnytaste.com/sauteed-asparagus-with-dijon/",
@@ -2054,13 +2062,13 @@
     "macros": null,
     "ingredients": [
       {
-        "name": "sugar",
-        "quantity": "1 cup",
-        "category": "Pantry"
+        "name": "1 cup sugar",
+        "quantity": "",
+        "category": "Other"
       },
       {
-        "name": "vanilla beans",
-        "quantity": "1 or 2",
+        "name": "1  or 2 vanilla beans",
+        "quantity": "",
         "category": "Other"
       },
       {
@@ -2083,7 +2091,8 @@
     "title": "Mexican \"Unfried\" Ice Cream",
     "tab": "athlete",
     "tags": [
-      "quick"
+      "quick",
+      "dessert"
     ],
     "source": "Skinny Taste",
     "source_url": "https://www.skinnytaste.com/mexican-unfried-ice-cream/",
@@ -2528,44 +2537,44 @@
     },
     "ingredients": [
       {
-        "name": "24 oz 6 cups string beans beans, ends trimmed",
-        "quantity": "",
+        "name": "string beans",
+        "quantity": "6 cups 24 oz",
+        "category": "Produce"
+      },
+      {
+        "name": "black olives",
+        "quantity": "2.25 ounce (can)",
+        "category": "Pantry"
+      },
+      {
+        "name": "balsamic vinegar",
+        "quantity": "3 tablespoons",
         "category": "Other"
       },
       {
-        "name": "2.25 ounce can sliced black olives (drained (check labels for Whole30))",
-        "quantity": "",
+        "name": "olive oil",
+        "quantity": "3 tablespoons",
+        "category": "Pantry"
+      },
+      {
+        "name": "scallions",
+        "quantity": "3 medium",
+        "category": "Produce"
+      },
+      {
+        "name": "kosher salt",
+        "quantity": "3/4 teaspoon",
         "category": "Other"
       },
       {
-        "name": "3 tablespoons balsamic vinegar",
-        "quantity": "",
+        "name": "black pepper",
+        "quantity": "to taste",
         "category": "Other"
       },
       {
-        "name": "3 tablespoons extra virgin olive oil",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "3  medium scallions (chopped)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "3/4 teaspoon kosher salt",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "fresh black pepper (to taste)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "5  hard boiled eggs (peeled and sliced)",
-        "quantity": "",
-        "category": "Other"
+        "name": "eggs",
+        "quantity": "5 hard boiled",
+        "category": "Protein"
       }
     ],
     "instructions": [
@@ -2581,7 +2590,8 @@
     "title": "Creamy Sweet Corn Drink",
     "tab": "vietnamese",
     "tags": [
-      "quick"
+      "quick",
+      "drink"
     ],
     "source": "The Woks of Life",
     "source_url": "https://thewoksoflife.com/sweet-corn-drink/",
@@ -3051,61 +3061,6 @@
     "image_url": "https://cdn.shortpixel.ai/spai2/q_lossless+ret_img+to_auto/www.hungryhuy.com/wp-content/uploads/yaki-udon-sq.jpg"
   },
   {
-    "id": "classic-filipino-leche-flan-smooth-amp-rich-custard-w-caramel-topping",
-    "title": "Classic Filipino Leche Flan (Smooth &amp; rich custard w/ caramel topping)",
-    "tab": "vietnamese",
-    "tags": [
-      "quick"
-    ],
-    "source": "Hungry Huy",
-    "source_url": "https://www.hungryhuy.com/leche-flan/",
-    "prep_time_minutes": 20,
-    "servings": 2,
-    "macros": {
-      "calories": 292,
-      "protein_g": 9,
-      "carbs_g": 35,
-      "fat_g": 12
-    },
-    "ingredients": [
-      {
-        "name": "50 g granulated white sugar",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "100 g egg yolks",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "126.6 g sweetened condensed milk",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "176 g evaporated milk",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "4 g vanilla extract",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "water (for water bath)",
-        "quantity": "",
-        "category": "Other"
-      }
-    ],
-    "instructions": [
-      "Caramelizing the sugar",
-      "Making the leche flan"
-    ],
-    "image_url": "https://cdn.shortpixel.ai/spai2/q_lossless+ret_img+to_auto/www.hungryhuy.com/wp-content/uploads/leche-flan-sq.jpg"
-  },
-  {
     "id": "how-to-make-five-spice-powder",
     "title": "How to Make Five Spice Powder",
     "tab": "vietnamese",
@@ -3255,125 +3210,6 @@
     "image_url": "https://thewoksoflife.com/wp-content/uploads/2019/06/stir-fry-lotus-root-recipe-9.jpg"
   },
   {
-    "id": "ube-cake-filipino-purple-yam-cake-wmacapuno",
-    "title": "Ube Cake (Filipino Purple Yam Cake w/Macapuno)",
-    "tab": "vietnamese",
-    "tags": [
-      "quick",
-      "bulk"
-    ],
-    "source": "Hungry Huy",
-    "source_url": "https://www.hungryhuy.com/ube-cake/",
-    "prep_time_minutes": 20,
-    "servings": 8,
-    "macros": {
-      "calories": 1129,
-      "protein_g": 10,
-      "carbs_g": 124,
-      "fat_g": 68
-    },
-    "ingredients": [
-      {
-        "name": "4  egg yolks",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "8 fl oz ube puree ((or ube halaya))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "4 fl oz coconut cream",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 tsp ube extract",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "100 g white granulated sugar",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2 g salt",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "4 fl oz carbonated water",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "260 g cake flour",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "10 g baking powder",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "4 g cream of tartar",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "10  egg whites",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "100 g white granulated sugar",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "boiling water",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "567 g unsalted butter (softened and room temperature)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "550 g powdered sugar (sifted)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2 fl oz coconut cream",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "ube extract (optional)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "3 fl oz macapuno (coconut string jam )",
-        "quantity": "",
-        "category": "Other"
-      }
-    ],
-    "instructions": [
-      "Batter",
-      "Meringue",
-      "Baking",
-      "Frosting",
-      "Assembly"
-    ],
-    "image_url": "https://cdn.shortpixel.ai/spai2/q_lossless+ret_img+to_auto/www.hungryhuy.com/wp-content/uploads/ube-cake-sq.jpg"
-  },
-  {
     "id": "vietnamese-spicy-lemongrass-chicken-g\u00e0-x\u00e0o-s\u1ea3-\u1edbt",
     "title": "Vietnamese Spicy Lemongrass Chicken (G\u00e0 X\u00e0o S\u1ea3 \u1edat)",
     "tab": "vietnamese",
@@ -3392,69 +3228,69 @@
     },
     "ingredients": [
       {
-        "name": "1 lb chicken (cut into bit-sized pieces)",
-        "quantity": "",
+        "name": "chicken",
+        "quantity": "1 lb",
+        "category": "Protein"
+      },
+      {
+        "name": "salt",
+        "quantity": "1 tsp",
+        "category": "Pantry"
+      },
+      {
+        "name": "sugar",
+        "quantity": "2 tsp",
+        "category": "Pantry"
+      },
+      {
+        "name": "MSG or chicken bouillon",
+        "quantity": "\u2153 tsp",
         "category": "Other"
       },
       {
-        "name": "1 tsp salt",
-        "quantity": "",
+        "name": "neutral cooking oil",
+        "quantity": "4 tbsp",
+        "category": "Pantry"
+      },
+      {
+        "name": "shallots",
+        "quantity": "3 tbsp",
+        "category": "Produce"
+      },
+      {
+        "name": "garlic",
+        "quantity": "1 tbsp",
+        "category": "Produce"
+      },
+      {
+        "name": "lemongrass",
+        "quantity": "4-5 tbsp",
+        "category": "Produce"
+      },
+      {
+        "name": "fish sauce",
+        "quantity": "2 tbsp",
         "category": "Other"
       },
       {
-        "name": "2 tsp sugar",
-        "quantity": "",
+        "name": "sambal",
+        "quantity": "1 tbsp",
         "category": "Other"
       },
       {
-        "name": "\u2153 tsp MSG or chicken bouillon (optional)",
-        "quantity": "",
+        "name": "coconut juice",
+        "quantity": "\u00bd c",
         "category": "Other"
       },
       {
-        "name": "4 tbsp neutral cooking oil",
-        "quantity": "",
-        "category": "Other"
+        "name": "onion",
+        "quantity": "\u00bd medium",
+        "category": "Produce"
       },
       {
-        "name": "3 tbsp shallots (minced)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 tbsp garlic  (minced)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "4-5 tbsp lemongrass (minced)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2 tbsp fish sauce",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 tbsp  sambal",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "\u00bd c coconut juice (or lemon-lime soda, or water)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "\u00bd medium onion cut into slivers (optional)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 stalk green onion cut into 2 inch pieces (optional)",
-        "quantity": "",
-        "category": "Other"
+        "name": "green onion",
+        "quantity": "1 stalk",
+        "category": "Produce"
       }
     ],
     "instructions": [
@@ -3571,7 +3407,8 @@
     "title": "Guava & Cheese Strudel (Pastelitos De Guayaba Y Queso)",
     "tab": "vietnamese",
     "tags": [
-      "quick"
+      "quick",
+      "sauce"
     ],
     "source": "Hungry Huy",
     "source_url": "https://www.hungryhuy.com/guava-cheese-pastries/",
@@ -3662,215 +3499,6 @@
       "Assembly"
     ],
     "image_url": "https://cdn.shortpixel.ai/spai2/q_lossless+ret_img+to_auto/www.hungryhuy.com/wp-content/uploads/guava-cheese-pastry-sq.jpg"
-  },
-  {
-    "id": "filipino-beef-empanadas",
-    "title": "Filipino Beef Empanadas",
-    "tab": "vietnamese",
-    "tags": [
-      "quick"
-    ],
-    "source": "Hungry Huy",
-    "source_url": "https://www.hungryhuy.com/filipino-beef-empanadas/",
-    "prep_time_minutes": 20,
-    "servings": 12,
-    "macros": {
-      "calories": 246,
-      "protein_g": 7,
-      "carbs_g": 23,
-      "fat_g": 13
-    },
-    "ingredients": [
-      {
-        "name": "\u2153 c frozen peas",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "8 fl oz filtered water",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "\u00bd fl oz vegetable oil",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "\u00bd c onions (\u00bd small onion) (chopped )",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 tbsp garlic (5 cloves) (minced)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "\u00bd lb ground beef",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "8 fl oz  tomato sauce (\u00bd can)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "21.5 g brown sugar",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2.6 g salt",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": ".4 g black pepper",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "\u2153 c carrots (1 medium carrot) (minced)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "\u00bd c gold potato (1 medium potato) (chopped into fine pieces)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "250 g all purpose flour",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "25 g white granulated sugar",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2 g salt",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2 g baking powder",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "114 g very cold butter (cubed into \u00bc inch cubes)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1  egg",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 fl oz ice water",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1  egg (beaten for egg wash)",
-        "quantity": "",
-        "category": "Other"
-      }
-    ],
-    "instructions": [
-      "Filling",
-      "Assembly"
-    ],
-    "image_url": "https://cdn.shortpixel.ai/spai2/q_lossless+ret_img+to_auto/www.hungryhuy.com/wp-content/uploads/empanadas-sq-inside.jpg"
-  },
-  {
-    "id": "steamed-chinese-eggplant-with-spicy-lao-gan-ma",
-    "title": "Steamed Chinese Eggplant with Spicy Lao Gan Ma",
-    "tab": "vietnamese",
-    "tags": [
-      "quick"
-    ],
-    "source": "The Woks of Life",
-    "source_url": "https://thewoksoflife.com/steamed-chinese-eggplant-spicy/",
-    "prep_time_minutes": 3,
-    "servings": 6,
-    "macros": {
-      "calories": 126,
-      "protein_g": 2,
-      "carbs_g": 6,
-      "fat_g": 11
-    },
-    "ingredients": [
-      {
-        "name": "1 pound Japanese or Chinese eggplant ((450g, about 3 eggplants))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1/4 cup white vinegar",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 teaspoon Chinese black vinegar",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2 tablespoons light soy sauce",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2 teaspoon oyster sauce",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1/2 teaspoon sugar",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 teaspoon sesame oil",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1-1 1/2 tablespoons Lao Gan Ma chili sauce",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "4 cloves garlic ((minced))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1  scallion ((minced))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "3 tablespoons vegetable oil",
-        "quantity": "",
-        "category": "Other"
-      }
-    ],
-    "instructions": [
-      "Prepare your steamer. If you\u2019re not sure how to set up a steaming apparatus, check our our post on how to set up a steamer, even without special equipment. Turn the heat on low to pre-heat the water in the steamer.",
-      "Cut each eggplant crosswise into 3 equal sections, then cut each section into 8-10 bite-sized strips.",
-      "Fill a large container with about 2 quarts of water and 1/4 cup white vinegar. Soak the eggplant in the vinegar water for 3 minutes. Then remove the eggplant and squeeze as much liquid out as possible. Arrange them on a heat-proof rimmed dish and carefully lower it into the steamer. Cover and turn the heat on high. Steam the eggplant for 8-10 minutes.",
-      "Now make the sauce by combining the Chinese black vinegar, light soy sauce, oyster sauce, sugar, sesame oil, and chili sauce.",
-      "Remove the eggplant from the steamer (no need to pour out the liquid in the dish), and evenly pour the sauce over the eggplant. Top it with the minced garlic and scallions. Try to keep garlic and scallions close together in a couple tight lines to make the next step easier.",
-      "Heat 3 tablespoons oil in a small saucepan until it starts to smoke lightly, and then carefully pour it over the garlic and scallion. Serve hot or cold. If serving as a cold appetizer, you can make this dish in advance."
-    ],
-    "image_url": "https://thewoksoflife.com/wp-content/uploads/2019/08/chinese-steamed-eggplant-11.jpg"
   },
   {
     "id": "fried-brown-rice",
@@ -4136,7 +3764,8 @@
     "title": "Dairy-free Cheesecake",
     "tab": "vietnamese",
     "tags": [
-      "quick"
+      "quick",
+      "dessert"
     ],
     "source": "The Woks of Life",
     "source_url": "https://thewoksoflife.com/dairy-free-cheesecake/",
@@ -4237,72 +3866,12 @@
     "image_url": "https://thewoksoflife.com/wp-content/uploads/2019/12/dairy-free-cheesecake-14.jpg"
   },
   {
-    "id": "chinese-boiled-peanuts",
-    "title": "Chinese Boiled Peanuts",
-    "tab": "vietnamese",
-    "tags": [],
-    "source": "The Woks of Life",
-    "source_url": "https://thewoksoflife.com/chinese-boiled-peanuts/",
-    "prep_time_minutes": 30,
-    "servings": 8,
-    "macros": {
-      "calories": 312,
-      "protein_g": 14,
-      "carbs_g": 9,
-      "fat_g": 27
-    },
-    "ingredients": [
-      {
-        "name": "20 ounces fresh raw peanuts, in the shell ((green peanuts, 565g))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "6 cups water ((or enough to submerge the peanuts))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 tablespoon sea salt ((or to taste; add more if you like them salty))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 tablespoon Sichuan peppercorns",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1  small cinnamon stick",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "3  bay leaves",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1-2  star anise pods",
-        "quantity": "",
-        "category": "Other"
-      }
-    ],
-    "instructions": [
-      "Soak the peanuts in water for 30 minutes to loosen any dirt still clinging to the shells. Wash them thoroughly and drain. Repeat as necessary until the soaking water is clear.",
-      "Using your thumb and index finger, crack open one end of each peanut (the pointier side is easier to crack open) by lightly pressing it. This is so the brine can get inside the peanut shell.",
-      "Put the peanuts in a medium pot along with 6 cups water so the peanuts are totally submerged. Add 1 tablespoon sea salt (or to taste), 1 tablespoon Sichuan peppercorns, 1 small cinnamon stick, 3 bay leaves, and 1-2 star anise pods (use 1 for a lighter flavor or 2 for stronger flavor).",
-      "Bring the peanuts to a boil, cover, lower the heat, and simmer for 45 minutes to 1 hour. This will produce a slightly al dente peanut, which is the way we like it. Increase the time if you like your peanuts softer and periodically taste test test to check the consistency.",
-      "Turn off the heat and leave the cover on; they will continue to cook and absorb the flavors of the briny liquid. Let the boiled peanuts cool to room temperature. It\u2019s best to let them soak overnight in the refrigerator and eat them cold."
-    ],
-    "image_url": "https://thewoksoflife.com/wp-content/uploads/2019/08/chinese-boiled-peanuts-8.jpg"
-  },
-  {
     "id": "tamarind-iced-tea",
     "title": "Tamarind Iced Tea",
     "tab": "vietnamese",
     "tags": [
-      "quick"
+      "quick",
+      "drink"
     ],
     "source": "The Woks of Life",
     "source_url": "https://thewoksoflife.com/tamarind-iced-tea/",
@@ -4372,84 +3941,84 @@
     },
     "ingredients": [
       {
-        "name": "160 g or 1 c all purpose flour",
-        "quantity": "",
+        "name": "flour",
+        "quantity": "1 c all purpose",
+        "category": "Pantry"
+      },
+      {
+        "name": "hot water",
+        "quantity": "6 tbsp",
         "category": "Other"
       },
       {
-        "name": "3 oz or 6 tbsp hot water",
-        "quantity": "",
+        "name": "salt",
+        "quantity": "1 tsp",
+        "category": "Pantry"
+      },
+      {
+        "name": "ground pork",
+        "quantity": "\u00bd lb",
+        "category": "Protein"
+      },
+      {
+        "name": "shrimp",
+        "quantity": "\u00bd lb",
+        "category": "Protein"
+      },
+      {
+        "name": "dried shiitake mushroom",
+        "quantity": "2 tbsp",
         "category": "Other"
       },
       {
-        "name": "5 g  or 1 tsp salt",
-        "quantity": "",
+        "name": "green onions",
+        "quantity": "2 tbsp",
+        "category": "Produce"
+      },
+      {
+        "name": "cornstarch",
+        "quantity": "1 tbsp",
+        "category": "Pantry"
+      },
+      {
+        "name": "soy sauce",
+        "quantity": "1 tbsp",
+        "category": "Pantry"
+      },
+      {
+        "name": "oyster sauce",
+        "quantity": "\u00bd tbsp",
+        "category": "Pantry"
+      },
+      {
+        "name": "sesame oil",
+        "quantity": "1 tsp",
+        "category": "Pantry"
+      },
+      {
+        "name": "ginger",
+        "quantity": "1 tsp",
+        "category": "Produce"
+      },
+      {
+        "name": "sugar",
+        "quantity": "\u00bd tsp",
         "category": "Other"
       },
       {
-        "name": "\u00bd lb ground pork",
-        "quantity": "",
+        "name": "salt",
+        "quantity": "\u00bd tsp",
         "category": "Other"
       },
       {
-        "name": "\u00bd lb shrimp (peeled and minced)",
-        "quantity": "",
+        "name": "white pepper",
+        "quantity": "\u215b tsp",
         "category": "Other"
       },
       {
-        "name": "2 tbsp dried shiitake mushroom",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2 tbsp green onions (minced)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 tbsp cornstarch",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 tbsp soy sauce",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "\u00bd tbsp oyster sauce",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 tsp sesame oil",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 tsp fresh ginger (finely grated)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "\u00bd tsp sugar",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "\u00bd tsp salt",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "\u215b tsp white pepper",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "carrots (minced)",
-        "quantity": "",
-        "category": "Other"
+        "name": "carrots",
+        "quantity": "minced",
+        "category": "Produce"
       },
       {
         "name": "soy sauce (optional for dipping)",
@@ -4462,286 +4031,6 @@
       "Assembly and steaming"
     ],
     "image_url": "https://cdn.shortpixel.ai/spai2/q_lossless+ret_img+to_auto/www.hungryhuy.com/wp-content/uploads/steamer-with-shumai.jpg"
-  },
-  {
-    "id": "poor-mans-thai-noodles",
-    "title": "Poor Man\u2019s Thai Noodles",
-    "tab": "vietnamese",
-    "tags": [
-      "quick"
-    ],
-    "source": "The Woks of Life",
-    "source_url": "https://thewoksoflife.com/poor-mans-thai-noodles/",
-    "prep_time_minutes": 20,
-    "servings": 2,
-    "macros": {
-      "calories": 201,
-      "protein_g": 4,
-      "carbs_g": 29,
-      "fat_g": 7
-    },
-    "ingredients": [
-      {
-        "name": "12 ounces fresh wide rice noodles ((340g))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 tablespoon brown sugar",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 tablespoon hot water",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 teaspoon fish sauce ((or vegan fish sauce))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 1/2 teaspoons Thai thin soy sauce ((or Chinese light soy sauce))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 tablespoon Thai black soy sauce ((or 1 1/2 teaspoons Chinese dark soy))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2 tablespoons canola oil",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "4  scallions ((cut at an angle into 2 inch pieces, white and green portions separated))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "3 cloves garlic ((sliced))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2 cups mung bean sprouts ((175g, rinsed and drained))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1/4 cup Thai Basil ((optional))",
-        "quantity": "",
-        "category": "Other"
-      }
-    ],
-    "instructions": [
-      "Remove the fresh rice noodles from the package and cut them into 1 \u00bd inch wide strips. If they were refrigerated, let them come up to room temperature and loosen them in some hot water.",
-      "If you are using dried rice noodles, follow the directions on the package to cook them. You can also soak them in hot water until softened and re-hydrated\u2013\u2013about 15 to 20 minutes. Drain thoroughly. There should be no visual moisture on the noodles.",
-      "In a small bowl, dissolve the brown sugar in the hot water. Mix in the fish sauce (if using) and soy sauces. Set aside.",
-      "Heat your wok until smoking, and spread 2 tablespoons canola oil around the perimeter of the wok.",
-      "Add scallion whites and garlic and Thai basil (optional) if you have some. After 10 seconds, add the softened noodles. Your wok should be screaming hot now. Continue to toss the rice noodles for 30 seconds to warm them up. Next, stir up your soy sauce mixture and pour it over the noodles.",
-      "Continue stir-frying for 1 minute until the noodles are well coated. They should get a good smoky sear on them.",
-      "Next, add the mung bean sprouts and green portions of the scallions. Stir-fry for 1 minute, until the bean sprouts and scallions are wilted. Plate and serve with your favorite hot chili oil."
-    ],
-    "image_url": "https://thewoksoflife.com/wp-content/uploads/2020/03/thai-poor-man-noodle-9.jpg"
-  },
-  {
-    "id": "chicken-larb",
-    "title": "Chicken Larb",
-    "tab": "vietnamese",
-    "tags": [
-      "quick"
-    ],
-    "source": "The Woks of Life",
-    "source_url": "https://thewoksoflife.com/chicken-larb/",
-    "prep_time_minutes": 10,
-    "servings": 2,
-    "macros": {
-      "calories": 338,
-      "protein_g": 27,
-      "carbs_g": 17,
-      "fat_g": 19
-    },
-    "ingredients": [
-      {
-        "name": "1/4 cup uncooked jasmine rice ((or glutinous/sweet rice))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2 tablespoons vegetable oil",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "3  shallots ((thinly sliced; divided))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 1/4 pound ground chicken ((570g, grind your own for the best texture))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1/2 teaspoon sugar",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2 tablespoons fish sauce",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2  limes, juiced",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1-2  Thai bird chilies ((thinly sliced))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "3  scallions ((thinly sliced))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1/4 cup cilantro ((roughly chopped))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1/2 cup fresh mint ((roughly chopped))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "salt ((optional))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "butter, bibb, or boston lettuce ((washed and thoroughly dried; can also serve with sticky rice))",
-        "quantity": "",
-        "category": "Other"
-      }
-    ],
-    "instructions": [
-      "In a dry wok or pan over low heat, toast the rice grains, stirring continuously until they turn golden and fragrant\u2013\u2013about 10 minutes. Grind to a coarse powder in a mortar &amp; pestle or spice grinder. Set aside.",
-      "Heat your wok over high heat and add 2 tablespoons of oil. Fry half the shallots in the oil until crispy. Remove the shallots from the wok, leaving behind any oil.",
-      "Place your wok back over high heat until smoking. Add the ground chicken. Stir-fry until the chicken is browned and crispy, and add in the sugar, fish sauce, and lime juice.",
-      "Stir-fry for another minute, and add the toasted rice powder, chilies, the rest of the raw shallots, scallions, cilantro, and mint. Stir-fry for one more minute, and then taste for seasoning, adding salt or more chili, sugar, fish sauce, and/or lime juice to your taste if needed.",
-      "Serve in lettuce cups topped with the reserved crispy shallots."
-    ],
-    "image_url": "https://thewoksoflife.com/wp-content/uploads/2019/08/chicken-larb-13.jpg"
-  },
-  {
-    "id": "tempura-donburi-rice-bowls",
-    "title": "Tempura Donburi (Rice Bowls)",
-    "tab": "vietnamese",
-    "tags": [
-      "quick",
-      "bulk"
-    ],
-    "source": "The Woks of Life",
-    "source_url": "https://thewoksoflife.com/tempura-donburi-shrimp-vegetable/",
-    "prep_time_minutes": 20,
-    "servings": 4,
-    "macros": {
-      "calories": 776,
-      "protein_g": 18,
-      "carbs_g": 96,
-      "fat_g": 37
-    },
-    "ingredients": [
-      {
-        "name": "3/4 cup dashi stock ((homemade or made with instant dashi granules))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2 tablespoons soy sauce",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2 tablespoons mirin",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "4 cups cooked Japanese short-grain rice",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "daikon radish ((finely grated and squeezed in a clean dish towel to wring out excess moisture, optional))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1  sweet potato ((peeled and sliced into thin rounds))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1-2  medium sweet white onions ((sliced into 1/2-inch rounds))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2  small heads of broccoli ((torn into small individual florets))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2 cups oyster mushrooms ((broken up into individual pieces))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "12  large shrimp ((peeled and deveined, with the tail on))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "vegetable oil ((or canola/peanut oil, for frying))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 3/4 cups ice water",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 1/4 cups cake flour",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2  egg yolks",
-        "quantity": "",
-        "category": "Other"
-      }
-    ],
-    "instructions": [
-      "First, prepare the dipping sauce by combining dashi stock, soy sauce, and mirin. We used instant dashi, but if you want to make it yourself, we have detailed instructions in our Miso Soup recipe. At this point, you can also cook the rice you\u2019ll serve with the tempura.",
-      "Next, prepare the vegetables, making sure everything is washed and trimmed. Nothing should be too wet ahead of frying, so if needed, pat the vegetables with a kitchen towel or let them sit at room temperature to dry off while you prep everything else.",
-      "Score the shrimp with a sharp knife so that they can lay flat (you can do this lightly if you don\u2019t mind them retaining some of their curved shape). Refrigerate the shrimp until you\u2019re ready to fry.",
-      "Next, make the batter. Stir together the ice water, cake flour, and egg yolks. No need to get rid of all the lumps\u2014in fact, take care not to overmix it. Pop it in the refrigerator while you heat the frying oil.",
-      "In a small deep pot, heat enough oil to fill it about halfway, over medium-high heat. While that\u2019s happening, set up a wire rack over a sheet pan or a platter lined with paper towels. When a drop of the batter sizzles vigorously but doesn\u2019t brown too quickly, you\u2019re ready to go.",
-      "To fry, swirl one piece of vegetable or shrimp in the batter (for the shrimp, hold it by the tail), and lower it gently into the batter. Fry everything in batches of 3-4 items for 45-90 seconds, turning each item 3-4 times. When the vegetables are lightly golden and the shrimp are lightly golden, orange, and floating, it\u2019s ready to be transferred to the wire rack.",
-      "Adjust the heat as needed between batches as you add cold food to the oil. The oil should be hot enough that it doesn\u2019t take too long to cook the tempura, but not so hot that the food immediately turns golden when it hits the oil.",
-      "To assemble the tempura donburi bowls, spoon a base of steamed rice into each bowl. Top with with vegetables and a few shrimp per bowl. Serve with the dipping sauce, grated daikon (optional), and perhaps a bowl of miso soup!"
-    ],
-    "image_url": "https://thewoksoflife.com/wp-content/uploads/2019/10/tempura-16.jpg"
   },
   {
     "id": "how-to-cook-brown-rice",
@@ -4899,7 +4188,8 @@
     "title": "Grass Jelly Dessert",
     "tab": "vietnamese",
     "tags": [
-      "quick"
+      "quick",
+      "dessert"
     ],
     "source": "The Woks of Life",
     "source_url": "https://thewoksoflife.com/grass-jelly-dessert/",
@@ -5035,203 +4325,12 @@
     "image_url": "https://thewoksoflife.com/wp-content/uploads/2019/08/grass-jelly-dessert-10.jpg"
   },
   {
-    "id": "pancit-canton-filipino-stir-fried-noodles",
-    "title": "Pancit Canton (Filipino Stir-Fried Noodles)",
-    "tab": "vietnamese",
-    "tags": [
-      "quick",
-      "bulk"
-    ],
-    "source": "Hungry Huy",
-    "source_url": "https://www.hungryhuy.com/pancit-canton/",
-    "prep_time_minutes": 20,
-    "servings": 4,
-    "macros": {
-      "calories": 721,
-      "protein_g": 32,
-      "carbs_g": 97,
-      "fat_g": 25
-    },
-    "ingredients": [
-      {
-        "name": "8 c filtered water (for boiling)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "filtered water and ice (for ice bath)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2  c cabbage (\u00bd small cabbage)  (finely shredded)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 c string beans (5-7 string beans) (\u00bc inch pieces &amp; sliced in a bias)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "\u00bc c chinese celery (2-3 pieces of celery) (\u00bc inch pieces &amp; sliced in a bias)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 c carrot (2 medium sized carrots) (julienned)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 tbsp vegetable oil",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 c yellow onion (\u00bd medium onion) (chopped)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 tbsp garlic (5 garlic cloves) (minced)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "\u00bc lb pork belly (sliced into \u00bc inch strips)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "\u00bc lb shrimp (peeled and deveined)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "\u00bc lb chicken thighs (sliced into \u00bc inch strips)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "14 oz chicken broth",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2 tbsp soy sauce",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 tbsp oyster sauce",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 pack  wheat flour noodles",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "\u00bc tsp black pepper",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "calamansi or lime slices (optional topping)",
-        "quantity": "",
-        "category": "Other"
-      }
-    ],
-    "instructions": [
-      "Blanched vegetables",
-      "Pancit"
-    ],
-    "image_url": "https://cdn.shortpixel.ai/spai2/q_lossless+ret_img+to_auto/www.hungryhuy.com/wp-content/uploads/pancit-canton-recipe-closeup.jpg"
-  },
-  {
-    "id": "thai-green-papaya-salad",
-    "title": "Thai Green Papaya Salad",
-    "tab": "vietnamese",
-    "tags": [
-      "quick"
-    ],
-    "source": "The Woks of Life",
-    "source_url": "https://thewoksoflife.com/thai-green-papaya-salad/",
-    "prep_time_minutes": 15,
-    "servings": 2,
-    "macros": {
-      "calories": 77,
-      "protein_g": 2,
-      "carbs_g": 15,
-      "fat_g": 2
-    },
-    "ingredients": [
-      {
-        "name": "1  green papaya ((about 2 1/2 pounds/1kg whole))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2-3 cloves garlic ((peeled))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2  Thai bird chilies",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 tablespoon peanuts ((dry roasted/salted, plus more for garnish))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1/2 teaspoon salt",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2 tablespoons sugar",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "3 tablespoons fresh lime juice",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2 1/2 tablespoons fish sauce ((or to taste))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "4  long beans  ((cut into 2-lengths; can substitute string beans, cut in half lengthwise and crosswise))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1  medium tomato ((cut into small chunks))",
-        "quantity": "",
-        "category": "Other"
-      }
-    ],
-    "instructions": [
-      "Using a vegetable peeler, peel the outer skin of the papaya. If you have a julienne peeler, peel off julienned strips from all around the papaya. If not, cut the papaya in half and scrape out the seeds. Using a mandolin or sharp knife, julienne the papaya. Transfer to a bowl of ice water for 15 minutes to firm up the papaya strips and make them crunchier.",
-      "Meanwhile, chop the garlic, bird chilies, and peanuts together on a board until finely minced. Add to a mixing bowl along with the salt, sugar, lime juice, and fish sauce. If you have a mortar and pestle, you can also pound these ingredients together to make the dressing, which is more traditional.",
-      "Crush the long bean pieces with the flat side of your knife until bruised (or with the mortar and pestle, if you have that). Add to the bowl with the dressing, along with the tomatoes.",
-      "Drain the papaya well and add it to the salad. Toss everything together well, and garnish with more chopped peanuts. Serve."
-    ],
-    "image_url": "https://thewoksoflife.com/wp-content/uploads/2019/08/thai-green-papaya-salad-5.jpg"
-  },
-  {
     "id": "tamarind-paste",
     "title": "Tamarind Paste",
     "tab": "vietnamese",
-    "tags": [],
+    "tags": [
+      "sauce"
+    ],
     "source": "Hungry Huy",
     "source_url": "https://www.hungryhuy.com/tamarind-paste/",
     "prep_time_minutes": 30,
@@ -5244,13 +4343,13 @@
     },
     "ingredients": [
       {
-        "name": "tamarind",
-        "quantity": "4-6 seeds per pod",
+        "name": "12 pods tamarind (4-6 seeds per pod)",
+        "quantity": "",
         "category": "Other"
       },
       {
-        "name": "water",
-        "quantity": "8 fl oz",
+        "name": "8 fl oz boiling water",
+        "quantity": "",
         "category": "Other"
       }
     ],
@@ -5285,18 +4384,18 @@
     },
     "ingredients": [
       {
-        "name": "2 pounds raw peanuts (not the dehydrated type)",
-        "quantity": "",
-        "category": "Other"
+        "name": "peanuts",
+        "quantity": "2 pounds",
+        "category": "Pantry"
       },
       {
-        "name": "2 ounces of salt",
-        "quantity": "",
-        "category": "Other"
+        "name": "salt",
+        "quantity": "2 ounces",
+        "category": "Pantry"
       },
       {
-        "name": "2 gallons of water",
-        "quantity": "",
+        "name": "water",
+        "quantity": "2 gallons",
         "category": "Other"
       }
     ],
@@ -5326,34 +4425,34 @@
     },
     "ingredients": [
       {
-        "name": "2 lb large head of gai choi (Asian mustard greens)",
-        "quantity": "",
+        "name": "gai choi",
+        "quantity": "1 large head",
+        "category": "Produce"
+      },
+      {
+        "name": "onion",
+        "quantity": "medium, sliced",
+        "category": "Produce"
+      },
+      {
+        "name": "water",
+        "quantity": "16 cups",
         "category": "Other"
       },
       {
-        "name": "1  medium onion (sliced)",
-        "quantity": "",
-        "category": "Other"
+        "name": "salt",
+        "quantity": "4 tbsp.",
+        "category": "Pantry"
       },
       {
-        "name": "16 cups water",
-        "quantity": "",
-        "category": "Other"
+        "name": "sugar",
+        "quantity": "10 tbsp.",
+        "category": "Pantry"
       },
       {
-        "name": "4 tbsp. salt",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "10 tbsp. sugar",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2 tbsp. vinegar",
-        "quantity": "",
-        "category": "Other"
+        "name": "vinegar",
+        "quantity": "2 tbsp.",
+        "category": "Pantry"
       }
     ],
     "instructions": [
@@ -5368,7 +4467,9 @@
     "id": "hawthorn-iced-tea",
     "title": "Hawthorn Iced Tea",
     "tab": "vietnamese",
-    "tags": [],
+    "tags": [
+      "drink"
+    ],
     "source": "The Woks of Life",
     "source_url": "https://thewoksoflife.com/hawthorn-iced-tea/",
     "prep_time_minutes": 45,
@@ -5399,93 +4500,6 @@
       "Allow to cool completely, and then strain in a fine-meshed sieve and serve with ice. If the tea is too tart for your taste, sweeten to taste with honey, which dissolves more easily than sugar."
     ],
     "image_url": "https://thewoksoflife.com/wp-content/uploads/2019/08/hawthorn-tea-8.jpg"
-  },
-  {
-    "id": "teriyaki-mushroom-bento",
-    "title": "Teriyaki Mushroom Bento",
-    "tab": "vietnamese",
-    "tags": [
-      "quick"
-    ],
-    "source": "The Woks of Life",
-    "source_url": "https://thewoksoflife.com/teriyaki-mushroom-bento/",
-    "prep_time_minutes": 1,
-    "servings": 2,
-    "macros": {
-      "calories": 168,
-      "protein_g": 1,
-      "carbs_g": 10,
-      "fat_g": 15
-    },
-    "ingredients": [
-      {
-        "name": "4  king oyster mushrooms",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2 tablespoons vegetable oil",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 teaspoon ginger ((minced))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2 tablespoons mirin ((such as Mizkan Mirin Sweet Cooking Seasoning))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 tablespoon soy sauce",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1-2 teaspoons brown sugar",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1/2 teaspoon sesame oil",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Steamed rice",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Hard boiled eggs",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Gyoza ((steamed or pan-fried))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Sesame marinated vegetables",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Fresh fruit",
-        "quantity": "",
-        "category": "Other"
-      }
-    ],
-    "instructions": [
-      "Trim off the ends of the king oyster mushrooms. Dice them into \u00bd-inchcubes.",
-      "Heat the vegetable oil in a cast iron or nonstick pan over medium heat.Add the oyster mushroom pieces to the pan, and fry on all sides until goldenbrown and caramelized. Don\u2019t overcrowd the mushrooms, or they\u2019ll steam!",
-      "Add the ginger to the pan, and cook for 1 minute until fragrant. Thenadd the Mizkan Mirin, soy sauce, brown sugar, and sesame oil. Mix to evenlycoat the mushrooms in the sauce.",
-      "To make a bento box lunch, serve the teriyaki oyster mushrooms oversteamed rice, with various accompaniments, like hard boiled eggs, gyoza,vegetables, and sliced fruit."
-    ],
-    "image_url": "https://thewoksoflife.com/wp-content/uploads/2020/04/teriyaki-mushroom-bento-11.jpg"
   },
   {
     "id": "how-to-make-a-clear-broth",
@@ -5531,13 +4545,13 @@
     "macros": null,
     "ingredients": [
       {
-        "name": "pandan leaves",
-        "quantity": "35 g",
+        "name": "35  g pandan leaves (fresh or frozen and defrosted)",
+        "quantity": "",
         "category": "Other"
       },
       {
-        "name": "water",
-        "quantity": "\u00bd c",
+        "name": "\u00bd c water",
+        "quantity": "",
         "category": "Other"
       }
     ],
@@ -5555,7 +4569,8 @@
     "tab": "vietnamese",
     "tags": [
       "high-protein",
-      "quick"
+      "quick",
+      "dessert"
     ],
     "source": "Hungry Huy",
     "source_url": "https://www.hungryhuy.com/ca-kho-to-recipe-vietnamese-braised-fish/",
@@ -5838,76 +4853,6 @@
     "image_url": "https://thewoksoflife.com/wp-content/uploads/2019/06/pineapple-fried-rice-22.jpg"
   },
   {
-    "id": "filipino-halo-halo-w-leche-flan",
-    "title": "Filipino Halo-Halo (w/ Leche Flan)",
-    "tab": "vietnamese",
-    "tags": [
-      "quick"
-    ],
-    "source": "Hungry Huy",
-    "source_url": "https://www.hungryhuy.com/halo-halo/",
-    "prep_time_minutes": 20,
-    "servings": 2,
-    "macros": {
-      "calories": 563,
-      "protein_g": 5,
-      "carbs_g": 116,
-      "fat_g": 9
-    },
-    "ingredients": [
-      {
-        "name": "110 g dark brown sugar",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "\u00bc c water",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1  banana (sliced)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "\u215b tsp salt",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "4 slices Filipino leche flan (pre-made &amp; refrigerated)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "shaved ice (about 4 cups of ice cubes)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "4 tbsp macapuno strings",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "\u00bc c evaporated milk",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2 scoops avocado or ube ice cream (optional)",
-        "quantity": "",
-        "category": "Other"
-      }
-    ],
-    "instructions": [
-      "Caramelized banana sauce",
-      "Assembly"
-    ],
-    "image_url": "https://cdn.shortpixel.ai/spai2/q_lossless+ret_img+to_auto/www.hungryhuy.com/wp-content/uploads/halo-halo-square.jpg"
-  },
-  {
     "id": "nuoc-cham",
     "title": "Nuoc Cham",
     "tab": "vietnamese",
@@ -5973,7 +4918,8 @@
     "title": "Perfect Yellow Cake",
     "tab": "vietnamese",
     "tags": [
-      "quick"
+      "quick",
+      "dessert"
     ],
     "source": "The Woks of Life",
     "source_url": "https://thewoksoflife.com/yellow-cake/",
@@ -6139,7 +5085,8 @@
     "title": "How to Make Boba from Scratch (aka Tapioca Pearls) for Bubble Tea",
     "tab": "vietnamese",
     "tags": [
-      "quick"
+      "quick",
+      "drink"
     ],
     "source": "Hungry Huy",
     "source_url": "https://www.hungryhuy.com/tapioca-pearls/",
@@ -6277,181 +5224,6 @@
     "image_url": "https://thewoksoflife.com/wp-content/uploads/2020/04/yaki-udon-11.jpg"
   },
   {
-    "id": "egg-tarts-dim-sum-style",
-    "title": "Egg Tarts (Dim Sum Style)",
-    "tab": "vietnamese",
-    "tags": [
-      "quick"
-    ],
-    "source": "Hungry Huy",
-    "source_url": "https://www.hungryhuy.com/egg-tarts/",
-    "prep_time_minutes": 20,
-    "servings": 12,
-    "macros": {
-      "calories": 259,
-      "protein_g": 4,
-      "carbs_g": 19,
-      "fat_g": 18
-    },
-    "ingredients": [
-      {
-        "name": "210 g or 1\u00bd c all purpose flour",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "8 g or 1 tbsp powdered sugar",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "3 g or \u00bd tsp salt",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "200 g or 14 tbsp cold butter (cut into 1-inch cubes)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "110 ml or 4 oz sour cream",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "4  egg yolks",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "134 ml or \u00bd c evaporated milk",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "78 ml or 4 tbsp condensed milk",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2.5 ml or \u00bd tsp vanilla extract",
-        "quantity": "",
-        "category": "Other"
-      }
-    ],
-    "instructions": [
-      "Filling",
-      "Baking"
-    ],
-    "image_url": "https://cdn.shortpixel.ai/spai2/q_lossless+ret_img+to_auto/www.hungryhuy.com/wp-content/uploads/baked-egg-tarts-sq.jpg"
-  },
-  {
-    "id": "vegan-mapo-tofu",
-    "title": "Vegan Mapo Tofu",
-    "tab": "vietnamese",
-    "tags": [
-      "quick"
-    ],
-    "source": "The Woks of Life",
-    "source_url": "https://thewoksoflife.com/vegan-mapo-tofu/",
-    "prep_time_minutes": 1,
-    "servings": 4,
-    "macros": {
-      "calories": 272,
-      "protein_g": 9,
-      "carbs_g": 14,
-      "fat_g": 22
-    },
-    "ingredients": [
-      {
-        "name": "4 tablespoons vegetable oil",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 1/2 tablespoons Sichuan peppercorns ((coarsely ground, reserve 1/4 teaspoon for garnish at the end))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "3 tablespoons ginger ((finely minced))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "3 tablespoons garlic ((finely minced))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 tablespoon fermented black beans",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1-2  Thai bird chilies ((thinly sliced))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "4 ounces shiitake mushrooms ((110g, finely chopped))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1-2 tablespoons spicy bean sauce ((depending on your desired salt/spice levels))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 tablespoon chili oil",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2/3 cup water ((or vegetable or mushroom broth))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2 teaspoons cornstarch ((mixed with 1 tablespoon water))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 pound silken tofu ((or soft tofu, 450g, cut into 1-inch cubes))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1/4 teaspoon sesame oil",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1/4 teaspoon sugar",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1  scallion ((finely chopped))",
-        "quantity": "",
-        "category": "Other"
-      }
-    ],
-    "instructions": [
-      "In a wok over medium low heat, add the vegetable oil and ground Sichuan peppercorns (remember to reserve \u00bc teaspoon for garnishing the dish at the end).",
-      "Cook for 30 seconds, and add the ginger. Cook for another 1 minute and add the garlic. Cook for another 1 minute. Add the black beans, and chilies. Cook for another 1-2 minutes.",
-      "Turn up the heat to medium, and add the mushrooms. Cook until the mushrooms are cooked down and slightly caramelized, about 5 minutes.",
-      "Add the spicy bean sauce and chili oil to the mixture and stir it in well. Turn up the heat to high, and add \u2154 cups water or broth and stir. Bring the mixture up to a simmer, and allow to bubble for 1 minute.",
-      "Stir the cornstarch and water mixture to make sure the cornstarch is dissolved, and add it to the sauce. Allow the sauce to thicken (if it gets too thick, splash in more water or stock). If the sauce is too thin, make a little more cornstarch slurry and add it in. There will be variations depending on how high your heat is.",
-      "Add the tofu to the wok and gently toss the tofu in the sauce. Allow the tofu to simmer for 3-5 minutes, and then add the sesame oil, sugar, and scallions.",
-      "Give everything a final stir, and taste for seasoning (you likely won\u2019t have to add any additional salt, as the spicy bean sauce and fermented black beans are quite salty). Serve, garnished with a last sprinkle of Sichuan peppercorn powder."
-    ],
-    "image_url": "https://thewoksoflife.com/wp-content/uploads/2019/12/vegan-mapo-tofu-13.jpg"
-  },
-  {
     "id": "ube-halaya-recipe-purple-yam-jam",
     "title": "Ube Halaya Recipe (Purple Yam Jam)",
     "tab": "vietnamese",
@@ -6506,414 +5278,12 @@
     "image_url": "https://cdn.shortpixel.ai/spai2/q_lossless+ret_img+to_auto/www.hungryhuy.com/wp-content/uploads/ube-halaya-jar-sq.jpg"
   },
   {
-    "id": "chinese-hot-pot-at-home",
-    "title": "Chinese Hot Pot at Home",
-    "tab": "vietnamese",
-    "tags": [
-      "quick"
-    ],
-    "source": "The Woks of Life",
-    "source_url": "https://thewoksoflife.com/hot-pot-how-to/",
-    "prep_time_minutes": 10,
-    "servings": 2,
-    "macros": null,
-    "ingredients": [
-      {
-        "name": "Hot pot soup base (with water) or stock",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "baby bok choy ((thoroughly washed))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "napa cabbage ((washed, cut into 1-2 inch pieces))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "choy sum ((thoroughly washed))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "spinach ((thoroughly washed))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "pea tips ((thoroughly washed))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "watercress ((thoroughly washed))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "AA Choy/Cai ((washed, trimmed))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Chrysanthemum Leaves ((washed, trimmed))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "lotus root ((cut into 1/4 inch thick half moons))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "potato ((cut into 1/4 inch thick half moons))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "sweet potato ((cut into 1/4 inch thick half moons))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "pumpkin/kabocha squash ((cut into 1/4 inch thick half moons))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "daikon radish ((cut into 1-inch chunks))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "tomatoes ((sliced into wedges))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "corn ((whole ears, cut into 1-inch pieces))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "winter melon ((cut into 1-inch chunks))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Enoki mushrooms ((slice 1/2-1 inch of the base off, and separate the bundle of enoki\u2019s into smaller more manageable bundles)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Wood ears ((soak to reconstitute, rinse any dirt or sand off, and remove any woody ends))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "King mushrooms ((trim the ends, thinly slice))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Shiitake mushrooms ((trim woody stems, slice, and add to the pot early))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Oyster mushrooms ((thoroughly cleaned))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Shimeji mushrooms ((separated into individual pieces))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Beef ((brisket, short rib, ribeye, sirloin, flank steak, thinly sliced against the grain))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Pork shoulder or loin ((thinly sliced))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Pork belly ((thinly sliced))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Lamb shoulder or leg ((thinly sliced))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Boneless chicken breast or thighs ((thinly sliced))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Fish fillets ((such as tilapia, bass, fluke/flounder, thinly sliced))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Shrimp",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Scallops",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Squid or cuttlefish",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Beef balls",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Pork balls",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Fish balls",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Squid balls",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Mixed seafood balls",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Fish cakes",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Fish tofu",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Mung bean vermicelli ((soak in warm water for 10 minutes))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Rice vermicelli ((boil to par-cook, rinse in cold water, drain))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Thin fresh white noodles",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Fresh spinach noodles",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Shirataki noodles ((add directly to boiling broth, cooks in seconds))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Rice cakes ((the thin ovals are best; the thick Korean-style rice cake logs take too long to cook) )",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Frozen dumplings ((smaller is better; cook time 7-10 minutes))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Bean threads ((AKA dried bean curd sticks; soak in warm water for 3-4 hours, cut into 2-inch pieces))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Soy puffs ((left whole or cut in half))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Frozen tofu ((cut into 1-inch pieces))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Firm tofu ((cut into 1-inch pieces))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Dried bean curd rolls",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Fresh tofu sheets/skin",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Pressed tofu",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Chinese sesame paste or sauce",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Peanut butter or peanut sauce",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Soy sauce",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Sha Cha sauce",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Sesame oil",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Sichuan peppercorn oil",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Chili oil/sauce",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Chili garlic sauce/sambal oelek",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Chinese black vinegar/rice vinegar",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "White pepper",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Toasted sesame seeds",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Minced garlic",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Chopped scallions",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Chopped cilantro",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "Fried shallots or garlic",
-        "quantity": "",
-        "category": "Other"
-      }
-    ],
-    "instructions": [
-      "Place boiling soup base or stock in a wide, shallow pot the center of the table on a portable electric burner.",
-      "Place individual plates of raw ingredients on the table, along with dipping sauce ingredients.",
-      "Have each diner mix their own dipping sauce while the pot of soup comes to a boil. Once boiling, begin adding ingredients to the pot. Be sure to cook ingredients through before consuming, and allow the pot to boil for at least 30 seconds to 1 minute after adding any raw meat or seafood."
-    ],
-    "image_url": "https://thewoksoflife.com/wp-content/uploads/2020/11/hot-pot-at-home-10.jpg"
-  },
-  {
-    "id": "japanese-sweet-potatoes-easily-baked-w-fluffy-centers",
-    "title": "Japanese Sweet Potatoes (Easily Baked w/ Fluffy Centers!)",
-    "tab": "vietnamese",
-    "tags": [],
-    "source": "Hungry Huy",
-    "source_url": "https://www.hungryhuy.com/japanese-sweet-potatoes/",
-    "prep_time_minutes": 45,
-    "servings": 2,
-    "macros": {
-      "calories": 111,
-      "protein_g": 2,
-      "carbs_g": 26,
-      "fat_g": 0
-    },
-    "ingredients": [
-      {
-        "name": "2  Japanese sweet potatoes",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "fork or knife",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "oven",
-        "quantity": "",
-        "category": "Other"
-      }
-    ],
-    "instructions": [
-      "Preheat oven to 400\u00a0\u00b0F",
-      "Clean and lightly scrub the sweet potatoes under running water to clean them. I use a vegetable brush to lightly scrub any dirt off, but don\u2019t scrub too hard or you will remove the skin.",
-      "Use a fork to pierce five sets of holes throughout each sweet potato.",
-      "Set the potatoes on the wire rack of your oven.",
-      "Convection oven: bake for 40 to 45 minutes Regular non-convection oven: bake for 45 minutes to 1 hour",
-      "At about 30 minutes, test the sweet potatoes by using a fork and piercing it in the middle. If there is no resistance, they are finished. Remove the sweet potatoes and serve immediately."
-    ],
-    "image_url": "https://cdn.shortpixel.ai/spai2/q_lossless+ret_img+to_auto/www.hungryhuy.com/wp-content/uploads/sweet-potato-sq.jpg"
-  },
-  {
     "id": "chicken-with-black-bean-sauce",
     "title": "Chicken with Black Bean Sauce",
     "tab": "vietnamese",
     "tags": [
-      "quick"
+      "quick",
+      "sauce"
     ],
     "source": "The Woks of Life",
     "source_url": "https://thewoksoflife.com/chicken-black-beans/",
@@ -6927,84 +5297,84 @@
     },
     "ingredients": [
       {
-        "name": "2  chicken breasts ((about 12 ounces/340g, cut into 1/8-inch thick slices))",
-        "quantity": "",
+        "name": "chicken breast",
+        "quantity": "12 ounces/340g",
+        "category": "Protein"
+      },
+      {
+        "name": "water",
+        "quantity": "3 tablespoons",
+        "category": "Pantry"
+      },
+      {
+        "name": "cornstarch",
+        "quantity": "3 teaspoons",
+        "category": "Pantry"
+      },
+      {
+        "name": "oil",
+        "quantity": "1 teaspoon",
+        "category": "Pantry"
+      },
+      {
+        "name": "light soy sauce",
+        "quantity": "2 teaspoons",
+        "category": "Pantry"
+      },
+      {
+        "name": "water",
+        "quantity": "3 tablespoons",
         "category": "Other"
       },
       {
-        "name": "3 tablespoons water",
-        "quantity": "",
+        "name": "oil",
+        "quantity": "3 tablespoons",
+        "category": "Pantry"
+      },
+      {
+        "name": "ginger",
+        "quantity": "3 slices",
+        "category": "Produce"
+      },
+      {
+        "name": "garlic",
+        "quantity": "3 cloves",
+        "category": "Produce"
+      },
+      {
+        "name": "scallions",
+        "quantity": "3 parts (white and green)",
+        "category": "Produce"
+      },
+      {
+        "name": "fermented black beans",
+        "quantity": "3 tablespoons",
         "category": "Other"
       },
       {
-        "name": "3 teaspoons cornstarch",
-        "quantity": "",
+        "name": "green bell pepper",
+        "quantity": "1",
+        "category": "Produce"
+      },
+      {
+        "name": "red bell pepper",
+        "quantity": "1",
+        "category": "Produce"
+      },
+      {
+        "name": "sugar",
+        "quantity": "\u00bd teaspoon",
         "category": "Other"
       },
       {
-        "name": "1 teaspoon oil",
-        "quantity": "",
+        "name": "Shaoxing wine",
+        "quantity": "1 tablespoon",
         "category": "Other"
       },
       {
-        "name": "2 teaspoons light soy sauce",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "3 tablespoons oil ((divided))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "3 slices ginger ((julienned))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "3 cloves garlic ((smashed and chopped))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "3  scallions ((chopped and separated into white and green parts))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "3 tablespoons fermented black beans ((washed and drained))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1  green bell pepper ((cut into bite-sized pieces))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1  red bell pepper ((cut into bite-sized pieces))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "\u00bd teaspoon sugar",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 tablespoon Shaoxing wine",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "\u00bc teaspoon salt ((or to taste))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2 tablespoons water",
-        "quantity": "",
-        "category": "Other"
+        "name": "salt",
+        "quantity": "\u00bc teaspoon",
+        "category": "Pantry"
       }
     ],
     "instructions": [
@@ -7013,81 +5383,6 @@
       "Next, heat 1 tablespoon of oil in the wok over medium heat. Add the ginger, and let it cook for 15 seconds. Next, add the garlic, the white parts of the scallions, and the black beans. Stir for another 30 seconds. Now turn up the heat to high. Add the green and red peppers, and stir fry for about a minute. Add the sugar, Shaoxing wine, salt, the chicken, 2 tablespoons of water, and the green parts of the scallion. Quickly stir-fry everything well to coat in the sauce, and serve!"
     ],
     "image_url": "https://thewoksoflife.com/wp-content/uploads/2016/08/chicken-with-black-beans-2-1.jpg"
-  },
-  {
-    "id": "thai-basil-pork-belly",
-    "title": "Thai Basil Pork Belly",
-    "tab": "vietnamese",
-    "tags": [
-      "quick"
-    ],
-    "source": "The Woks of Life",
-    "source_url": "https://thewoksoflife.com/thai-basil-pork-belly/",
-    "prep_time_minutes": 15,
-    "servings": 4,
-    "macros": {
-      "calories": 563,
-      "protein_g": 13,
-      "carbs_g": 6,
-      "fat_g": 64
-    },
-    "ingredients": [
-      {
-        "name": "1 tablespoon vegetable oil",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "5 cloves garlic ((sliced))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "3  Thai bird chilies ((thinly sliced))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 pound lean pork belly ((thinly sliced))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 teaspoon sugar",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 tablespoon fish sauce",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2 teaspoons oyster sauce",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 tablespoon light soy sauce ((or Thai thin soy sauce))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2 teaspoons Thai black soy sauce ((or 1 teaspoon Chinese dark soy sauce))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 1/2 cups holy basil or Thai basil leaves ((packed))",
-        "quantity": "",
-        "category": "Other"
-      }
-    ],
-    "instructions": [
-      "In a wok over medium heat, add the oil, garlic, and chilies. Cook for 1 minute. Crank up the heat to high, and add the pork belly. Stir-fry until caramelized and a little crisp, 2 minutes.",
-      "Add the sugar, fish sauce, oyster sauce, and soy sauces. Stir-fry for 1 minute, and add the basil. Stir-fry until the basil is wilted. Serve immediately."
-    ],
-    "image_url": "https://thewoksoflife.com/wp-content/uploads/2020/06/thai-basil-pork-belly-5.jpg"
   },
   {
     "id": "shortcut-vegan-general-tsos-chicken",
@@ -7201,64 +5496,64 @@
     },
     "ingredients": [
       {
-        "name": "silken tofu",
-        "quantity": "7 oz (200g)",
-        "category": "Protein"
-      },
-      {
-        "name": "avocado",
-        "quantity": "1 ripe",
-        "category": "Produce"
-      },
-      {
-        "name": "garlic",
-        "quantity": "2 cloves",
-        "category": "Produce"
-      },
-      {
-        "name": "ginger",
-        "quantity": "1 tsp",
-        "category": "Produce"
-      },
-      {
-        "name": "light soy sauce",
-        "quantity": "2 tbsp",
-        "category": "Pantry"
-      },
-      {
-        "name": "sesame oil",
-        "quantity": "1 tsp",
-        "category": "Pantry"
-      },
-      {
-        "name": "sugar",
-        "quantity": "1/2 tsp",
+        "name": "7 ounces silken tofu ((200g, or about half a package))",
+        "quantity": "",
         "category": "Other"
       },
       {
-        "name": "Chinese black vinegar",
-        "quantity": "1/2 tsp",
+        "name": "1  ripe avocado",
+        "quantity": "",
         "category": "Other"
       },
       {
-        "name": "white pepper",
-        "quantity": "1/4 tsp",
+        "name": "2 cloves garlic ((grated))",
+        "quantity": "",
         "category": "Other"
       },
       {
-        "name": "water",
-        "quantity": "2 tsp",
+        "name": "1 teaspoon ginger ((grated))",
+        "quantity": "",
         "category": "Other"
       },
       {
-        "name": "salt",
-        "quantity": "to taste",
+        "name": "2 tablespoons light soy sauce",
+        "quantity": "",
         "category": "Other"
       },
       {
-        "name": "scallion",
-        "quantity": "1 finely chopped",
-        "category": "Produce"
+        "name": "1  teaspoon sesame oil",
+        "quantity": "",
+        "category": "Other"
+      },
+      {
+        "name": "1/2 teaspoon sugar",
+        "quantity": "",
+        "category": "Other"
+      },
+      {
+        "name": "1/2 teaspoon Chinese black vinegar ((can substitute rice wine vinegar, lime juice, yuzu, etc.))",
+        "quantity": "",
+        "category": "Other"
+      },
+      {
+        "name": "1/4 teaspoon white pepper",
+        "quantity": "",
+        "category": "Other"
+      },
+      {
+        "name": "2 teaspoons water",
+        "quantity": "",
+        "category": "Other"
+      },
+      {
+        "name": "salt ((to taste; you may not need any))",
+        "quantity": "",
+        "category": "Other"
+      },
+      {
+        "name": "1  scallion ((finely chopped))",
+        "quantity": "",
+        "category": "Other"
       }
     ],
     "instructions": [
@@ -7381,98 +5676,6 @@
       "Add the tomatoes, reserved juice, bay leaf and broth. Bring to a boil on high, then bring back down to low and simmer until veggies are soft. Add butter and use and puree with an immersion blender (or food processor/regular blender)."
     ],
     "image_url": "https://cdn.shortpixel.ai/spai2/q_lossless+ret_img+to_auto/www.hungryhuy.com/wp-content/uploads/tomato-soup-1-1.jpg"
-  },
-  {
-    "id": "10-minute-vegan-pad-krapow-thai-basil-stir-fry",
-    "title": "10-Minute Vegan Pad Krapow (Thai Basil Stir-fry)",
-    "tab": "vietnamese",
-    "tags": [
-      "quick"
-    ],
-    "source": "The Woks of Life",
-    "source_url": "https://thewoksoflife.com/vegan-pad-krapow-thai-basil-stir-fry/",
-    "prep_time_minutes": 10,
-    "servings": 2,
-    "macros": {
-      "calories": 222,
-      "protein_g": 18,
-      "carbs_g": 13,
-      "fat_g": 11
-    },
-    "ingredients": [
-      {
-        "name": "3 tablespoons oil",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "3  holland chilies ((thinly sliced))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1-2  Thai bird&#x27;s eye chilies ((optional, thinly sliced))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "3  shallots ((thinly sliced))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "5 cloves garlic ((sliced))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 package seitan/vegan chicken  ((227g, chopped into small bits))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 teaspoon sugar",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2 teaspoons light soy sauce",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1/2 teaspoon dark soy sauce",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 tablespoon fish sauce",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2-3 tablespoons water",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 bunch holy or Thai Basil leaves ((de-stemmed, washed))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "juice of half a lime ((optional))",
-        "quantity": "",
-        "category": "Other"
-      }
-    ],
-    "instructions": [
-      "In a wok over high heat, add the oil, chilies, shallots and garlic, and fry for 1-2 minutes. Add the vegan chicken, and stir-fry for 30 seconds, spreading evenly in a single layer. Then let the vegan chicken brown, stirring occasionally to sear it evenly.",
-      "Add the sugar, light soy sauce (add half the amount if using fish sauce), and dark soy sauce. At this point, add the fish sauce if you are pescatarian/flexitarian.",
-      "Stir-fry for another minute, and deglaze the pan with water. Because your pan is over high heat, the liquid should cook off very quickly.",
-      "Add the basil, and stir-fry until wilted. Finish with fresh lime juice (optional, but a good opportunity for extra tang and flavor, especially for those omitting the fish sauce!). Serve over steamed rice!"
-    ],
-    "image_url": "https://thewoksoflife.com/wp-content/uploads/2019/12/vegan-chicken-thai-basil-11.jpg"
   },
   {
     "id": "holiday-marshmallow-treats",
@@ -7606,7 +5809,8 @@
     "title": "Black Sticky Rice Mango Dessert",
     "tab": "vietnamese",
     "tags": [
-      "quick"
+      "quick",
+      "dessert"
     ],
     "source": "The Woks of Life",
     "source_url": "https://thewoksoflife.com/black-sticky-rice-mango-dessert/",
@@ -7677,7 +5881,8 @@
     "title": "Spicy Hunan Steamed Tofu &amp; Mushrooms",
     "tab": "vietnamese",
     "tags": [
-      "quick"
+      "quick",
+      "drink"
     ],
     "source": "The Woks of Life",
     "source_url": "https://thewoksoflife.com/steamed-tofu-mushrooms-hunan-spicy/",
@@ -7691,63 +5896,63 @@
     },
     "ingredients": [
       {
-        "name": "silken tofu",
-        "quantity": "450g",
+        "name": "1 pound silken tofu ((450g))",
+        "quantity": "",
         "category": "Other"
       },
       {
-        "name": "salt",
-        "quantity": "to taste",
+        "name": "salt ((to taste))",
+        "quantity": "",
         "category": "Other"
       },
       {
-        "name": "vegetable oil",
-        "quantity": "2 tablespoons, plus 2 tablespoons",
-        "category": "Pantry"
-      },
-      {
-        "name": "oyster mushrooms",
-        "quantity": "225g",
-        "category": "Produce"
-      },
-      {
-        "name": "white pepper",
-        "quantity": "a pinch",
+        "name": "1 tablespoon vegetable oil ((plus 2 tablespoons, divided))",
+        "quantity": "",
         "category": "Other"
       },
       {
-        "name": "ginger",
-        "quantity": "1 1/2 tablespoons",
-        "category": "Produce"
-      },
-      {
-        "name": "garlic",
-        "quantity": "3 cloves",
-        "category": "Produce"
-      },
-      {
-        "name": "duo jiao salted chili peppers",
-        "quantity": "1-4 tablespoons",
+        "name": "8  ounces oyster mushrooms ((225g))",
+        "quantity": "",
         "category": "Other"
       },
       {
-        "name": "scallions",
-        "quantity": "2 scallions",
+        "name": "1/4 teaspoon white pepper ((or to taste; the powder is ideal rather than freshly ground))",
+        "quantity": "",
         "category": "Other"
       },
       {
-        "name": "hot water",
-        "quantity": "2/3 cup",
+        "name": "1 1/2 tablespoons ginger ((minced))",
+        "quantity": "",
         "category": "Other"
       },
       {
-        "name": "soy sauce",
-        "quantity": "1 tablespoon",
+        "name": "3 cloves garlic ((minced))",
+        "quantity": "",
         "category": "Other"
       },
       {
-        "name": "granulated sugar",
-        "quantity": "a pinch",
+        "name": "1-4 tablespoons duo jiao salted chili peppers ((ranging from normal to crazytown, depending on how spicy you want it!) )",
+        "quantity": "",
+        "category": "Other"
+      },
+      {
+        "name": "2  scallions ((finely chopped, with the white and green parts separated))",
+        "quantity": "",
+        "category": "Other"
+      },
+      {
+        "name": "2/3 cup hot water",
+        "quantity": "",
+        "category": "Other"
+      },
+      {
+        "name": "1 tablespoon soy sauce",
+        "quantity": "",
+        "category": "Other"
+      },
+      {
+        "name": "1/2 teaspoon granulated sugar",
+        "quantity": "",
         "category": "Other"
       }
     ],
@@ -7780,19 +5985,19 @@
     },
     "ingredients": [
       {
-        "name": "1/2 c tapioca pearls",
+        "name": "tapioca pearls",
+        "quantity": "",
+        "category": "Pantry"
+      },
+      {
+        "name": "filtered water",
         "quantity": "",
         "category": "Other"
       },
       {
-        "name": "10 c filtered water",
+        "name": "sugar or honey",
         "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2 tbsp sugar or honey",
-        "quantity": "",
-        "category": "Other"
+        "category": "Pantry"
       }
     ],
     "instructions": [
@@ -7822,8 +6027,8 @@
     "ingredients": [
       {
         "name": "cilantro",
-        "quantity": "",
-        "category": "Other"
+        "quantity": "leaves",
+        "category": "Produce"
       },
       {
         "name": "ginger",
@@ -7833,12 +6038,12 @@
       {
         "name": "scallions",
         "quantity": "",
-        "category": "Other"
+        "category": "Produce"
       },
       {
         "name": "chilies/peppers",
         "quantity": "",
-        "category": "Other"
+        "category": "Produce"
       },
       {
         "name": "lemongrass",
@@ -7926,97 +6131,6 @@
     "image_url": "https://cdn.shortpixel.ai/spai2/q_lossless+ret_img+to_auto/www.hungryhuy.com/wp-content/uploads/cut-udon-sq.jpg"
   },
   {
-    "id": "char-siu-pork-recipe-chinese-bbq-pork",
-    "title": "Char Siu Pork Recipe (Chinese BBQ Pork)",
-    "tab": "vietnamese",
-    "tags": [],
-    "source": "Hungry Huy",
-    "source_url": "https://www.hungryhuy.com/char-siu-pork/",
-    "prep_time_minutes": 30,
-    "servings": 6,
-    "macros": {
-      "calories": 301,
-      "protein_g": 22,
-      "carbs_g": 35,
-      "fat_g": 7
-    },
-    "ingredients": [
-      {
-        "name": "pork butt",
-        "quantity": "680 g",
-        "category": "Protein"
-      },
-      {
-        "name": "sugar",
-        "quantity": "50 g",
-        "category": "Pantry"
-      },
-      {
-        "name": "fermented red bean curd sauce",
-        "quantity": "56 g",
-        "category": "Other"
-      },
-      {
-        "name": "fermented red bean curd",
-        "quantity": "20 g",
-        "category": "Produce"
-      },
-      {
-        "name": "honey",
-        "quantity": "81 g",
-        "category": "Pantry"
-      },
-      {
-        "name": "dark soy sauce",
-        "quantity": "32 g",
-        "category": "Other"
-      },
-      {
-        "name": "molasses",
-        "quantity": "45 g",
-        "category": "Pantry"
-      },
-      {
-        "name": "kosher salt",
-        "quantity": "10 g",
-        "category": "Pantry"
-      },
-      {
-        "name": "garlic powder",
-        "quantity": "12 g",
-        "category": "Pantry"
-      },
-      {
-        "name": "five spice powder",
-        "quantity": "1.5 g",
-        "category": "Other"
-      },
-      {
-        "name": "maltose",
-        "quantity": "67.5 g",
-        "category": "Pantry"
-      },
-      {
-        "name": "boiling water",
-        "quantity": "14 g",
-        "category": "Other"
-      }
-    ],
-    "instructions": [
-      "Cut the pork butt into two long strips horizontally and set aside.",
-      "In a small-sized bowl, combine the rest of the ingredients to make the marinade. Use a fork or a whisk to thoroughly incorporate the bean curd in the sauce. Reserve half of the marinade in another glass container, you will use this for the basting sauce later.",
-      "In a container, combine the pork strips and marinade making sure every side of the meat is thoroughly covered. Cover with a lid and marinate in the fridge for at least 8 hours or overnight. Halfway in the marinating process, make sure to turn the meat so that all sides get an even amount of marinating.",
-      "Remove the pork from the fridge at least 30 minutes before baking to bring the meat into room temperature; This will help to evenly cook the meat throughout.",
-      "Preheat the oven to 375 \u00b0F. Prep the basting sauce by warming up the maltose in the microwave for about 20 seconds. Mix the maltose and hot water together, then mix with the rest of the reserved marinade to create the basting sauce.",
-      "Place the marinated meat on top of a rack lined sheet pan. Place the pan in the middle rack of the oven. Add water enough in the sheet pan to fill about 1 inch from the bottom of the pan.",
-      "Bake for 20 minutes, turn over and baste the meat with a brush.",
-      "Bake for another 15 minutes, turn over and baste.",
-      "Turn the heat up to 425 \u00b0F and bake for 5 minutes or until the edges of the char siu begin to darken and caramelize. Take internal temperature, it needs to be at least 145\u00b0F.",
-      "Transfer the meat onto a cutting board, baste one more time, and let it rest for about five minutes before cutting. Serve the meat with steamed white rice and fresh veggies."
-    ],
-    "image_url": "https://cdn.shortpixel.ai/spai2/q_lossless+ret_img+to_auto/www.hungryhuy.com/wp-content/uploads/char-siu-recipe-closeup.jpg"
-  },
-  {
     "id": "stir-fried-green-beans-with-pork",
     "title": "Stir-fried Green Beans with Pork",
     "tab": "vietnamese",
@@ -8035,89 +6149,99 @@
     },
     "ingredients": [
       {
-        "name": "ground pork",
-        "quantity": "8 ounces (225g)",
-        "category": "Protein"
-      },
-      {
-        "name": "Shaoxing wine",
-        "quantity": "1 tablespoon",
+        "name": "8 ounces ground pork ((225g, can substitute ground chicken or beef))",
+        "quantity": "",
         "category": "Other"
       },
       {
-        "name": "light soy sauce",
-        "quantity": "1 tablespoon",
+        "name": "1 tablespoon Shaoxing wine",
+        "quantity": "",
         "category": "Other"
       },
       {
-        "name": "dark soy sauce",
-        "quantity": "1 teaspoon",
+        "name": "1 tablespoon light soy sauce",
+        "quantity": "",
         "category": "Other"
       },
       {
-        "name": "water",
-        "quantity": "2 tablespoons",
+        "name": "1 teaspoon dark soy sauce",
+        "quantity": "",
         "category": "Other"
       },
       {
-        "name": "ginger",
-        "quantity": "2 tablespoons (minced)",
-        "category": "Produce"
-      },
-      {
-        "name": "sugar",
-        "quantity": "1/2 teaspoon",
-        "category": "Pantry"
-      },
-      {
-        "name": "cornstarch",
-        "quantity": "1 teaspoon",
-        "category": "Pantry"
-      },
-      {
-        "name": "oil",
-        "quantity": "3 tablespoons (divided)",
-        "category": "Pantry"
-      },
-      {
-        "name": "green beans",
-        "quantity": "1 pound (450g)",
-        "category": "Produce"
-      },
-      {
-        "name": "garlic",
-        "quantity": "2 tablespoons (minced)",
-        "category": "Produce"
-      },
-      {
-        "name": "red bell pepper",
-        "quantity": "1/2 red (diced finely)",
-        "category": "Produce"
-      },
-      {
-        "name": "red chilies",
-        "quantity": "4 (chopped, optional)",
+        "name": "2 tablespoons water",
+        "quantity": "",
         "category": "Other"
       },
       {
-        "name": "sugar",
-        "quantity": "1/4 teaspoon",
+        "name": "2 tablespoons ginger ((minced))",
+        "quantity": "",
         "category": "Other"
       },
       {
-        "name": "sesame oil",
-        "quantity": "1 tablespoon",
-        "category": "Pantry"
+        "name": "1/2 teaspoon sugar",
+        "quantity": "",
+        "category": "Other"
       },
       {
-        "name": "ground white pepper",
-        "quantity": "1/4 teaspoon",
-        "category": "Protein"
+        "name": "1 teaspoon cornstarch",
+        "quantity": "",
+        "category": "Other"
       },
       {
-        "name": "salt",
-        "quantity": "1/8 teaspoon",
-        "category": "Protein"
+        "name": "3 tablespoons oil ((divided))",
+        "quantity": "",
+        "category": "Other"
+      },
+      {
+        "name": "1 pound green beans ((450g, chopped to \u00bd-inch pieces))",
+        "quantity": "",
+        "category": "Other"
+      },
+      {
+        "name": "2 tablespoons garlic ((minced))",
+        "quantity": "",
+        "category": "Other"
+      },
+      {
+        "name": "1/2  red bell pepper ((diced finely))",
+        "quantity": "",
+        "category": "Other"
+      },
+      {
+        "name": "4  red chilies ((chopped, optional))",
+        "quantity": "",
+        "category": "Other"
+      },
+      {
+        "name": "1/4 teaspoon sugar",
+        "quantity": "",
+        "category": "Other"
+      },
+      {
+        "name": "1 teaspoon sesame oil",
+        "quantity": "",
+        "category": "Other"
+      },
+      {
+        "name": "1 tablespoon light soy sauce",
+        "quantity": "",
+        "category": "Other"
+      },
+      {
+        "name": "1/4 teaspoon ground white pepper",
+        "quantity": "",
+        "category": "Other"
+      },
+      {
+        "name": "1/8 teaspoon salt ((a pinch, or to taste))",
+        "quantity": "",
+        "category": "Other"
+      },
+      {
+        "name": "2 tablespoons water",
+        "quantity": "",
+        "category": "Other"
       }
     ],
     "instructions": [
@@ -8127,471 +6251,6 @@
       "Next, add the garlic, bell pepper and chilies. Stir-fry for 1 minute. Add in the cooked green beans, \u00bc teaspoon sugar, 1 teaspoon sesame oil, 1 tablespoon light soy sauce, \u00bc teaspoon ground white pepper, a pinch of salt (to taste), and 2 tablespoons water. With the heat all the way up on high, stir-fry for a final 10-15 seconds and serve."
     ],
     "image_url": "https://thewoksoflife.com/wp-content/uploads/2019/06/chinese-green-beans-18.jpg"
-  },
-  {
-    "id": "chinese-cold-salad-dressing-\u51c9\u62cc\u6c41",
-    "title": "Chinese Cold \u201cSalad\u201d Dressing \u51c9\u62cc\u6c41",
-    "tab": "vietnamese",
-    "tags": [
-      "quick"
-    ],
-    "source": "The Woks of Life",
-    "source_url": "https://thewoksoflife.com/chinese-cold-salad-dressing/",
-    "prep_time_minutes": 10,
-    "servings": 6,
-    "macros": {
-      "calories": 92,
-      "protein_g": 2,
-      "carbs_g": 6,
-      "fat_g": 8
-    },
-    "ingredients": [
-      {
-        "name": "garlic",
-        "quantity": "4 cloves; about 15g",
-        "category": "Produce"
-      },
-      {
-        "name": "ginger",
-        "quantity": "3 thin slices; about 8g",
-        "category": "Produce"
-      },
-      {
-        "name": "scallions",
-        "quantity": "",
-        "category": "Produce"
-      },
-      {
-        "name": "Thai chilies",
-        "quantity": "3 chopped",
-        "category": "Produce"
-      },
-      {
-        "name": "oil",
-        "quantity": "3 tablespoons",
-        "category": "Pantry"
-      },
-      {
-        "name": "Sichuan peppercorns",
-        "quantity": "1 tablespoon",
-        "category": "Pantry"
-      },
-      {
-        "name": "sugar",
-        "quantity": "1 1/2 teaspoons",
-        "category": "Pantry"
-      },
-      {
-        "name": "Chinese black vinegar",
-        "quantity": "2 teaspoons; or to taste",
-        "category": "Pantry"
-      },
-      {
-        "name": "light soy sauce",
-        "quantity": "2 1/2 tablespoons",
-        "category": "Pantry"
-      },
-      {
-        "name": "oyster sauce",
-        "quantity": "1 teaspoon; or vegetarian oyster sauce",
-        "category": "Other"
-      },
-      {
-        "name": "sesame oil",
-        "quantity": "0.5-1 teaspoon",
-        "category": "Pantry"
-      },
-      {
-        "name": "salt",
-        "quantity": "0.25 teaspoon; or to taste",
-        "category": "Produce"
-      },
-      {
-        "name": "five spice powder",
-        "quantity": "0.25 teaspoon",
-        "category": "Pantry"
-      },
-      {
-        "name": "cilantro",
-        "quantity": "1 tablespoon; or to taste",
-        "category": "Other"
-      }
-    ],
-    "instructions": [
-      "In a large heat-proof bowl, arrange the minced garlic, minced ginger, the white parts of the chopped scallion, and chopped Thai chilies so they are adjacent to each other at the bottom of the bowl (don\u2019t messily pile them all on top of each other).",
-      "Now infuse the Sichuan peppercorns in oil. In a small pot, heat 3 tablespoons of vegetable oil with the Sichuan peppercorns over low heat until fragrant, taking care not to burn the peppercorns.",
-      "After about 10 minutes, remove the peppercorns using a fine meshed strainer or slotted spoon. Heat the infused oil just until it begins to smoke. Pour it carefully over the arranged aromatics in the bowl. It will bubble and sizzle! Carefully stir to evenly distribute the heat.",
-      "Now add in the sugar, vinegar, light soy sauce, oyster sauce, sesame oil, salt and five spice powder. Mix well.",
-      "Finally add in the green parts of the chopped scallion and the cilantro. (If pre-making the sauce, leave these last ingredients out and add them right before serving.)"
-    ],
-    "image_url": "https://thewoksoflife.com/wp-content/uploads/2020/06/cold-dish-sauce-7.jpg"
-  },
-  {
-    "id": "siopao-asado-filipino-steamed-pork-buns",
-    "title": "Siopao Asado (Filipino Steamed Pork Buns)",
-    "tab": "vietnamese",
-    "tags": [
-      "quick"
-    ],
-    "source": "Hungry Huy",
-    "source_url": "https://www.hungryhuy.com/siopao-asado/",
-    "prep_time_minutes": 20,
-    "servings": 12,
-    "macros": {
-      "calories": 342,
-      "protein_g": 13,
-      "carbs_g": 50,
-      "fat_g": 9
-    },
-    "ingredients": [
-      {
-        "name": "1 \u00bd lb pork shoulder/butt (cut into 1 inch cubes)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 tsp vegetable oil",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 tbsp garlic (5 cloves) (minced)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 c yellow onion (half yellow onion) (chopped)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "4 c water",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 tsp salt",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 tbsp light soy sauce",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "470 g all purpose flour",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "100 g cornstarch",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "10 g baking powder",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "8  g instant active yeast",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "100 g white sugar",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "9 oz water",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2 oz vegetable oil (plus a little extra for greasing the mixing bowl )",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 \u00bd c  braised pork shoulder (from above)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 \u00bd c pork broth (from braised pork)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 tbsp oyster sauce",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 tsp hoisin",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "4 tsp dark brown sugar",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "\u00bc tsp black pepper",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2 tbsp cornstarch",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "4 tbsp water",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "3  boiled eggs (sliced into quarters lengthwise)",
-        "quantity": "",
-        "category": "Other"
-      }
-    ],
-    "instructions": [
-      "Braise",
-      "Asado filling",
-      "Assembly &amp; steaming"
-    ],
-    "image_url": "https://cdn.shortpixel.ai/spai2/q_lossless+ret_img+to_auto/www.hungryhuy.com/wp-content/uploads/siopao-asado-recipe.jpg"
-  },
-  {
-    "id": "kare-kare-filipino-oxtail-vegetable-amp-peanut-sauce-stew",
-    "title": "Kare Kare (Filipino Oxtail, Vegetable &amp; Peanut Sauce Stew)",
-    "tab": "vietnamese",
-    "tags": [
-      "quick"
-    ],
-    "source": "Hungry Huy",
-    "source_url": "https://www.hungryhuy.com/kare-kare/",
-    "prep_time_minutes": 20,
-    "servings": 8,
-    "macros": {
-      "calories": 363,
-      "protein_g": 30,
-      "carbs_g": 11,
-      "fat_g": 22
-    },
-    "ingredients": [
-      {
-        "name": "2 tbsp vegetable oil",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 lb oxtail",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 lb beef shank",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 c yellow onion (about 1/2 medium onion) (chopped)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 tbsp garlic (about 5 cloves) (minced)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "12 c water",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 tbsp salt",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "\u00bd c peanuts (unsalted and dry)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "\u00bc c white rice",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2  8-inch Japanese eggplants (cut into 1 inch pieces)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1  banana heart (peeled and chopped into 1 inch cubes)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 \u00bd c long string beans (about 5 string beans) (cut into 4-inch pieces)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "3 c bok choy (about 2 large heads) (individually peeled and chopped into 2 inch pieces)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 tbsp vegetable oil",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 \u00bd c yellow onion (about 1 medium onion) (chopped)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 tbsp  garlic (about 5 cloves) (minced)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2  lb  oxtail and beef shank (from above)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "3 c braising liquid (from above)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 tbsp annatto powder",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "\u00bc c smooth peanut butter",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 tbsp fish sauce",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 \u00be tsp  salt",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "\u00bd tsp black pepper",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "fermented shrimp paste",
-        "quantity": "",
-        "category": "Other"
-      }
-    ],
-    "instructions": [
-      "Braising",
-      "Prepping ingredients",
-      "Kare kare"
-    ],
-    "image_url": "https://cdn.shortpixel.ai/spai2/q_lossless+ret_img+to_auto/www.hungryhuy.com/wp-content/uploads/kare-kare-recipe-closeup.jpg"
-  },
-  {
-    "id": "pork-adobo-filipino-stewed-pork-belly-w-eggs",
-    "title": "Pork Adobo (Filipino Stewed Pork Belly w/ Eggs)",
-    "tab": "vietnamese",
-    "tags": [
-      "quick"
-    ],
-    "source": "Hungry Huy",
-    "source_url": "https://www.hungryhuy.com/pork-adobo/",
-    "prep_time_minutes": 20,
-    "servings": 10,
-    "macros": {
-      "calories": 559,
-      "protein_g": 14,
-      "carbs_g": 3,
-      "fat_g": 53
-    },
-    "ingredients": [
-      {
-        "name": "2 lb pork belly or pork shoulder/butt (cut into one-inch cubes)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "\u00bc c cane sugar vinegar (Datu Puti brand preferred)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "\u2153 c soy sauce",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2 tbsp garlic (about 10 cloves) (minced)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1  medium onion (chopped)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 tbsp dark brown sugar",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2  bay leaves",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 tsp peppercorns",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 tbsp vegetable oil",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2 \u00bd c water",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "8  boiled eggs (optional)",
-        "quantity": "",
-        "category": "Other"
-      }
-    ],
-    "instructions": [
-      "Marinade",
-      "Cooking"
-    ],
-    "image_url": "https://cdn.shortpixel.ai/spai2/q_lossless+ret_img+to_auto/www.hungryhuy.com/wp-content/uploads/adobo-w-eggs-recipe.jpg"
   },
   {
     "id": "slow-roasted-tomato-pasta",
@@ -8665,198 +6324,6 @@
       "Serve with an extra drizzle of extra virgin olive oil. You can also serve with grated cheese if desired."
     ],
     "image_url": "https://thewoksoflife.com/wp-content/uploads/2020/04/slow-roasted-tomato-pasta-6-e1600454929274.jpg"
-  },
-  {
-    "id": "chinese-braised-duck-legs",
-    "title": "Chinese Braised Duck Legs",
-    "tab": "vietnamese",
-    "tags": [
-      "high-protein",
-      "quick"
-    ],
-    "source": "The Woks of Life",
-    "source_url": "https://thewoksoflife.com/chinese-braised-duck-legs/",
-    "prep_time_minutes": 1,
-    "servings": 2,
-    "macros": {
-      "calories": 442,
-      "protein_g": 50,
-      "carbs_g": 7,
-      "fat_g": 21
-    },
-    "ingredients": [
-      {
-        "name": "4  duck legs",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1/4 cup Shaoxing wine ((can substitute clear rice wine or cooking sherry))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2 cups low sodium chicken stock",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2 tablespoons soy sauce",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2 tablespoons oyster sauce",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1/2 teaspoon sesame oil",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1/4 teaspoon white pepper",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "3 slices ginger",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "3 cloves garlic ((sliced))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "10-12  scallions ((cut into 2-inch lengths))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1  star anise ((optional))",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1  bay leaf ((optional))",
-        "quantity": "",
-        "category": "Other"
-      }
-    ],
-    "instructions": [
-      "Rinse the duck legs and trim off any excess fat (set aside to render down for long-term storage). Pat dry with a paper towel. Preheat your oven to 400 degrees. Heat a deep skillet or Dutch oven over medium high heat. When the skillet is hot, add the duck legs, skin side down.",
-      "Turn heat down to medium low, and cook until the skin on the duck legs is evenly golden brown. Do not attempt to move the duck legs until you\u2019ve seared them properly. Flip the duck legs and sear on the other side for 1 minute.",
-      "Remove the duck legs from the pot, and pour off the excess duck fat (strain it into a container and refrigerate it for use in other cooking applications).",
-      "Add the Shaoxing wine, stock, soy sauce, oyster sauce, sesame oil, white pepper, ginger, garlic, and scallions to the pot. Also throw in the star anise and bay leaf, if using. Return the duck legs to the pot, skin side up. The liquid should come halfway up the duck legs but not cover them.",
-      "Bring the liquid to a simmer, and transfer to the oven. Cook for 30 minutes, uncovered.",
-      "After 30 minutes in the oven, lower the heat to 350 degrees, and cook for another 30 minutes (uncovered), or until tender.",
-      "Serve with the braising liquid as a sauce (pour into a fat separator to remove any excess fat), steamed rice, and sauteed greens!"
-    ],
-    "image_url": "https://thewoksoflife.com/wp-content/uploads/2020/04/chinese-braised-duck-8.jpg"
-  },
-  {
-    "id": "pad-thai",
-    "title": "Pad Thai",
-    "tab": "vietnamese",
-    "tags": [
-      "quick"
-    ],
-    "source": "Hungry Huy",
-    "source_url": "https://www.hungryhuy.com/pad-thai-recipe/",
-    "prep_time_minutes": 20,
-    "servings": 4,
-    "macros": {
-      "calories": 376,
-      "protein_g": 11,
-      "carbs_g": 61,
-      "fat_g": 10
-    },
-    "ingredients": [
-      {
-        "name": "22.5 g fish sauce",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "28.25 g palm sugar",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "7.5 g brown sugar",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "10 g tamarind pulp (or paste)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1/8 cup oil",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "8 oz. dry rice noodle (2-4mm wide)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1/4 cup pad thai sauce",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2 cloves of garlic (minced)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "12  medium shrimp (deveined)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2  eggs",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1/2 lb. mung bean sprouts",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "8-10  stalks of Chinese chives",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "crushed peanuts",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "chili flakes",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "sugar",
-        "quantity": "",
-        "category": "Other"
-      }
-    ],
-    "instructions": [
-      "Rice Noodles",
-      "Pad Thai Sauce",
-      "Pad Thai"
-    ],
-    "image_url": "https://cdn.shortpixel.ai/spai2/q_lossless+ret_img+to_auto/www.hungryhuy.com/wp-content/uploads/pad-thai-close-up.jpg"
   },
   {
     "id": "vegan-1-2-3-4-5-tofu",
@@ -8945,48 +6412,48 @@
     },
     "ingredients": [
       {
-        "name": "puff pastry",
-        "quantity": "1 pack 2 sheets of 10x15\u201d",
+        "name": "1 pack puff pastry (Pepperidge Farm has 2 sheets of 10x15\u201d, but any brand will do)",
+        "quantity": "",
         "category": "Other"
       },
       {
-        "name": "egg whites and yolk",
-        "quantity": "1 extra large egg",
-        "category": "Protein"
-      },
-      {
-        "name": "ground pork",
-        "quantity": "1 lb",
-        "category": "Protein"
-      },
-      {
-        "name": "chopped onion",
-        "quantity": "\u2154 c",
-        "category": "Produce"
-      },
-      {
-        "name": "salt",
-        "quantity": "1 tsp",
-        "category": "Pantry"
-      },
-      {
-        "name": "sugar",
-        "quantity": "2 tsp",
-        "category": "Pantry"
-      },
-      {
-        "name": "ground pepper",
-        "quantity": "1 tsp",
-        "category": "Pantry"
-      },
-      {
-        "name": "MSG (or chicken bouillon)",
-        "quantity": "\u2153 tsp",
+        "name": "1 extra large egg (egg whites and yolk separated into two bowls and lightly beaten)",
+        "quantity": "",
         "category": "Other"
       },
       {
-        "name": "potato starch (or bread crumbs)",
-        "quantity": "1 tsp or 2 tbsp",
+        "name": "1 lb ground pork (or ground chicken)",
+        "quantity": "",
+        "category": "Other"
+      },
+      {
+        "name": "\u2154 c chopped onion (sweated with 2 tbsp oil until fragrant, then cooled)",
+        "quantity": "",
+        "category": "Other"
+      },
+      {
+        "name": "1 tsp salt",
+        "quantity": "",
+        "category": "Other"
+      },
+      {
+        "name": "2 tsp sugar",
+        "quantity": "",
+        "category": "Other"
+      },
+      {
+        "name": "1 tsp ground pepper",
+        "quantity": "",
+        "category": "Other"
+      },
+      {
+        "name": "\u2153 tsp MSG (monosodium glutamate) (or chicken bouillon)",
+        "quantity": "",
+        "category": "Other"
+      },
+      {
+        "name": "1 tsp potato starch (or 2 tbsp bread crumbs)",
+        "quantity": "",
         "category": "Other"
       }
     ],
@@ -8998,116 +6465,13 @@
     "image_url": "https://cdn.shortpixel.ai/spai2/q_lossless+ret_img+to_auto/www.hungryhuy.com/wp-content/uploads/angle-view-pate-chaud.jpg"
   },
   {
-    "id": "chinese-seaweed-salad",
-    "title": "Chinese Seaweed Salad",
-    "tab": "vietnamese",
-    "tags": [
-      "quick"
-    ],
-    "source": "The Woks of Life",
-    "source_url": "https://thewoksoflife.com/chinese-seaweed-salad/",
-    "prep_time_minutes": 5,
-    "servings": 8,
-    "macros": {
-      "calories": 87,
-      "protein_g": 2,
-      "carbs_g": 8,
-      "fat_g": 6
-    },
-    "ingredients": [
-      {
-        "name": "kelp",
-        "quantity": "12 ounces",
-        "category": "Produce"
-      },
-      {
-        "name": "garlic",
-        "quantity": "4 cloves",
-        "category": "Produce"
-      },
-      {
-        "name": "ginger",
-        "quantity": "3 thin slices",
-        "category": "Produce"
-      },
-      {
-        "name": "Thai chilies",
-        "quantity": "3",
-        "category": "Other"
-      },
-      {
-        "name": "scallions",
-        "quantity": "2 scallions",
-        "category": "Other"
-      },
-      {
-        "name": "vegetable oil",
-        "quantity": "3 tablespoons",
-        "category": "Pantry"
-      },
-      {
-        "name": "Sichuan peppercorns",
-        "quantity": "1 tablespoon",
-        "category": "Pantry"
-      },
-      {
-        "name": "sugar",
-        "quantity": "1 1/2 teaspoons",
-        "category": "Pantry"
-      },
-      {
-        "name": "Chinese black vinegar",
-        "quantity": "2 teaspoons",
-        "category": "Pantry"
-      },
-      {
-        "name": "light soy sauce",
-        "quantity": "2 1/2 tablespoons",
-        "category": "Pantry"
-      },
-      {
-        "name": "oyster sauce",
-        "quantity": "1 teaspoon",
-        "category": "Pantry"
-      },
-      {
-        "name": "sesame oil",
-        "quantity": "(to taste)",
-        "category": "Pantry"
-      },
-      {
-        "name": "salt",
-        "quantity": "(to taste)",
-        "category": "Other"
-      },
-      {
-        "name": "five spice powder",
-        "quantity": "(to taste)",
-        "category": "Pantry"
-      },
-      {
-        "name": "cilantro",
-        "quantity": "1 tablespoon",
-        "category": "Pantry"
-      }
-    ],
-    "instructions": [
-      "Bring a pot of water to a boil. Add the kelp, and simmer over medium heat for 5 minutes. Drain and rinse thoroughly in cold water. Drain completely and set aside. (You can also run it through a salad spinner to dry it even more.)",
-      "Next, make the sauce / dressing. In a large heat-proof bowl, arrange the minced garlic, minced ginger, Thai chilies, and the white parts of the scallions so they\u2019re next to each other at the bottom of the bowl. Don\u2019t pile them on top of each other, as you\u2019ll be pouring hot oil over everything, and you want it in an even layer.",
-      "Add 3 tablespoons of oil to a small pot or saucepan. Add the Sichuan peppercorns and let them infuse the oil over low heat for 10 minutes until fragrant. Take care not to burn the peppercorns.",
-      "Scoop out the peppercorns, and turn up the heat on the oil until it\u2019s just smoking. Then, immediately turn off the heat and pour the oil over the aromatics in your heat-proof bowl. The oil should be hot enough that the aromatics sizzle on contact.",
-      "Carefully stir the oil to evenly distribute the heat. Add the sugar, vinegar, light soy sauce, oyster sauce, sesame oil, salt, and five spice powder. Mix well, and stir in the green parts of the scallions and the cilantro.",
-      "Pour the dressing over the kelp, and toss to coat. Give it a taste, and add salt if needed. Serve."
-    ],
-    "image_url": "https://thewoksoflife.com/wp-content/uploads/2020/06/chinese-seaweed-salad-11.jpg"
-  },
-  {
     "id": "avocado-smoothie-recipe-sinh-t\u1ed1-b\u01a1",
     "title": "Avocado Smoothie Recipe (Sinh T\u1ed1 B\u01a1)",
     "tab": "vietnamese",
     "tags": [
       "quick",
-      "bulk"
+      "bulk",
+      "drink"
     ],
     "source": "Hungry Huy",
     "source_url": "https://www.hungryhuy.com/avocado-smoothie/",
@@ -9245,104 +6609,12 @@
     "image_url": "https://cdn.shortpixel.ai/spai2/q_lossless+ret_img+to_auto/www.hungryhuy.com/wp-content/uploads/lu-rou-fan-featured.jpg"
   },
   {
-    "id": "taho-filipino-silken-tofu-w-sago-pearls-amp-syrup",
-    "title": "Taho (Filipino Silken Tofu w/ Sago Pearls &amp; Syrup)",
-    "tab": "vietnamese",
-    "tags": [
-      "quick",
-      "bulk"
-    ],
-    "source": "Hungry Huy",
-    "source_url": "https://www.hungryhuy.com/filipino-taho-recipe/",
-    "prep_time_minutes": 20,
-    "servings": 2,
-    "macros": {
-      "calories": 746,
-      "protein_g": 14,
-      "carbs_g": 161,
-      "fat_g": 7
-    },
-    "ingredients": [
-      {
-        "name": "1 c soybeans",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "6 c filtered water (for soaking)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 c filtered water (for blending)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2 c filtered water (for cooking)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "\u00bd c filtered water (for squeezing)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "\u00bd tsp epsom salt",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2 tbsp filtered water (for tofu)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "\u2153 c dry sago or white tapioca pearls",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "8 c filtered water",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "\u00be c dark brown sugar",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "\u00be c filtered water",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "\u00be c pandan water",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "\u00bd c white granulated sugar",
-        "quantity": "",
-        "category": "Other"
-      }
-    ],
-    "instructions": [
-      "Silken tofu",
-      "Pearls",
-      "Arnibal",
-      "Assembly"
-    ],
-    "image_url": "https://cdn.shortpixel.ai/spai2/q_lossless+ret_img+to_auto/www.hungryhuy.com/wp-content/uploads/taho-recipe-closeup.jpg"
-  },
-  {
     "id": "ch\u00e8-b\u1eafp-recipe-vietnamese-corn-pudding-dessert",
     "title": "Ch\u00e8 B\u1eafp Recipe (Vietnamese Corn Pudding Dessert)",
     "tab": "vietnamese",
     "tags": [
-      "quick"
+      "quick",
+      "dessert"
     ],
     "source": "Hungry Huy",
     "source_url": "https://www.hungryhuy.com/che-bap-recipe/",
@@ -9451,171 +6723,6 @@
     "image_url": "https://www.hungryhuy.com/wp-content/uploads/landscape-pot-of-che-bap.jpg"
   },
   {
-    "id": "pork-sisig-charcoal-grilled-served-on-a-sizzling-platter",
-    "title": "Pork Sisig (Charcoal Grilled, Served on a Sizzling Platter)",
-    "tab": "vietnamese",
-    "tags": [
-      "quick"
-    ],
-    "source": "Hungry Huy",
-    "source_url": "https://www.hungryhuy.com/pork-sisig/",
-    "prep_time_minutes": 20,
-    "servings": 6,
-    "macros": {
-      "calories": 244,
-      "protein_g": 4,
-      "carbs_g": 1,
-      "fat_g": 24
-    },
-    "ingredients": [
-      {
-        "name": "\u00bd lb pork face parts  (eats, snout, cheek, jowls)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "\u00bd lb pork belly (cut into 1 inch cubes)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "\u00bc c vinegar",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "3  garlic cloves (smashed)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1  bay leaf",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 tsp salt",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "16 c water",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2 tbsp vegetable oil",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2 tbsp garlic (~10 cloves) (minced)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "2 tbsp fresh lime juice  (or calamansi)",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "\u00bd tbsp soy sauce",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "\u00be tsp salt",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "\u00bc tsp black pepper",
-        "quantity": "",
-        "category": "Other"
-      },
-      {
-        "name": "1 c red onion (~ \u00bd medium onion) (chopped)",
-        "quantity": "",
-        "category": "Other"
-      }
-    ],
-    "instructions": [
-      "Braising",
-      "Grilling"
-    ],
-    "image_url": "https://cdn.shortpixel.ai/spai2/q_lossless+ret_img+to_auto/www.hungryhuy.com/wp-content/uploads/sisig-plate-closeup.jpg"
-  },
-  {
-    "id": "filipino-pork-tocino-easy-no-artificial-colors",
-    "title": "Filipino Pork Tocino (Easy & No Artificial Colors)",
-    "tab": "vietnamese",
-    "tags": [
-      "quick"
-    ],
-    "source": "Hungry Huy",
-    "source_url": "https://www.hungryhuy.com/pork-tocino/",
-    "prep_time_minutes": 20,
-    "servings": 4,
-    "macros": {
-      "calories": 166,
-      "protein_g": 13,
-      "carbs_g": 16,
-      "fat_g": 4
-    },
-    "ingredients": [
-      {
-        "name": "sugar",
-        "quantity": "\u00bc c",
-        "category": "Pantry"
-      },
-      {
-        "name": "salt",
-        "quantity": "\u00be tbsp",
-        "category": "Pantry"
-      },
-      {
-        "name": "garlic powder",
-        "quantity": "1 tbsp",
-        "category": "Pantry"
-      },
-      {
-        "name": "black pepper",
-        "quantity": "\u00bc tsp",
-        "category": "Pantry"
-      },
-      {
-        "name": "annatto powder",
-        "quantity": "\u00bd tsp",
-        "category": "Pantry"
-      },
-      {
-        "name": "pineapple juice",
-        "quantity": "\u00bc c",
-        "category": "Produce"
-      },
-      {
-        "name": "pork shoulder and/or pork belly",
-        "quantity": "1 lb",
-        "category": "Protein"
-      },
-      {
-        "name": "water",
-        "quantity": "2-3 tbsp",
-        "category": "Other"
-      },
-      {
-        "name": "vegetable oil",
-        "quantity": "",
-        "category": "Pantry"
-      }
-    ],
-    "instructions": [
-      "Tocino marinade",
-      "Cooking tocino"
-    ],
-    "image_url": "https://cdn.shortpixel.ai/spai2/q_lossless+ret_img+to_auto/www.hungryhuy.com/wp-content/uploads/pork-tocino-sq.jpg"
-  },
-  {
     "id": "chicken-liver-p\u00e2t\u00e9-great-for-b\u00e1nh-m\u00ec",
     "title": "Chicken Liver P\u00e2t\u00e9 (great for b\u00e1nh m\u00ec)",
     "tab": "vietnamese",
@@ -9634,68 +6741,68 @@
     },
     "ingredients": [
       {
-        "name": "chicken livers",
-        "quantity": "1 lb",
-        "category": "Protein"
-      },
-      {
-        "name": "milk",
-        "quantity": "1 c",
-        "category": "Dairy"
-      },
-      {
-        "name": "ground pork",
-        "quantity": "\u00bd lb",
-        "category": "Protein"
-      },
-      {
-        "name": "vegetable oil",
-        "quantity": "1 tbsp",
-        "category": "Pantry"
-      },
-      {
-        "name": "yellow onion",
-        "quantity": "\u00be c (about 1 small onion)",
-        "category": "Produce"
-      },
-      {
-        "name": "garlic",
-        "quantity": "1 tbsp (about 5 cloves)",
-        "category": "Produce"
-      },
-      {
-        "name": "butter",
-        "quantity": "4 tbsp",
-        "category": "Dairy"
-      },
-      {
-        "name": "white sugar",
-        "quantity": "2 tsp",
-        "category": "Pantry"
-      },
-      {
-        "name": "fish sauce",
-        "quantity": "1 tsp",
+        "name": "1 lb chicken livers",
+        "quantity": "",
         "category": "Other"
       },
       {
-        "name": "heavy cream",
-        "quantity": "1 tbsp",
-        "category": "Dairy"
-      },
-      {
-        "name": "bourbon",
-        "quantity": "1 tbsp",
+        "name": "1 c milk",
+        "quantity": "",
         "category": "Other"
       },
       {
-        "name": "salt",
-        "quantity": "1 tsp",
+        "name": "\u00bd lb ground pork (minced)",
+        "quantity": "",
         "category": "Other"
       },
       {
-        "name": "black pepper",
-        "quantity": "\u00bd tsp",
+        "name": "1 tbsp vegetable oil",
+        "quantity": "",
+        "category": "Other"
+      },
+      {
+        "name": "\u00be c yellow onion (about 1 small onion) (chopped)",
+        "quantity": "",
+        "category": "Other"
+      },
+      {
+        "name": "1 tbsp garlic (about 5 cloves) (minced)",
+        "quantity": "",
+        "category": "Other"
+      },
+      {
+        "name": "4 tbsp butter (unsalted)",
+        "quantity": "",
+        "category": "Other"
+      },
+      {
+        "name": "2 tsp white sugar",
+        "quantity": "",
+        "category": "Other"
+      },
+      {
+        "name": "1 tsp fish sauce",
+        "quantity": "",
+        "category": "Other"
+      },
+      {
+        "name": "1 tbsp heavy cream",
+        "quantity": "",
+        "category": "Other"
+      },
+      {
+        "name": "1 tbsp bourbon",
+        "quantity": "",
+        "category": "Other"
+      },
+      {
+        "name": "1 tsp salt",
+        "quantity": "",
+        "category": "Other"
+      },
+      {
+        "name": "\u00bd tsp black pepper",
+        "quantity": "",
         "category": "Other"
       }
     ],
@@ -9798,7 +6905,8 @@
     "title": "Okay, I got a question from a team mom of middle school base",
     "tab": "athlete",
     "tags": [
-      "quick"
+      "quick",
+      "drink"
     ],
     "source": "Fouts Leadership",
     "source_url": "https://x.com/FoutsLeadership/status/2032220310062428635",
@@ -9894,7 +7002,8 @@
     "title": "Okay, athletes, I made some new recipes lately on smoothies",
     "tab": "athlete",
     "tags": [
-      "quick"
+      "quick",
+      "drink"
     ],
     "source": "Fouts Leadership",
     "source_url": "https://x.com/FoutsLeadership/status/2026778973938552858",
@@ -10118,7 +7227,8 @@
     "title": "But William, what was he? 143 when he started with you, Jere",
     "tab": "athlete",
     "tags": [
-      "quick"
+      "quick",
+      "dessert"
     ],
     "source": "Fouts Leadership",
     "source_url": "https://x.com/FoutsLeadership/status/2046239685966516390",
@@ -10290,7 +7400,8 @@
     "title": "Bryce, before we started working together, man, how were you",
     "tab": "athlete",
     "tags": [
-      "quick"
+      "quick",
+      "dessert"
     ],
     "source": "Fouts Leadership",
     "source_url": "https://x.com/FoutsLeadership/status/2028554543508730011",
@@ -10528,7 +7639,8 @@
     "title": "Yeah, last year Pearson started the season about this time l",
     "tab": "athlete",
     "tags": [
-      "quick"
+      "quick",
+      "dessert"
     ],
     "source": "Fouts Leadership",
     "source_url": "https://x.com/FoutsLeadership/status/2042622705174778335",
@@ -10574,7 +7686,8 @@
     "title": "Okay starting off with clean filet. That is chicken breast i",
     "tab": "athlete",
     "tags": [
-      "quick"
+      "quick",
+      "dessert"
     ],
     "source": "Fouts Leadership",
     "source_url": "https://x.com/FoutsLeadership/status/2041992795838107852",
